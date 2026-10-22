@@ -6,7 +6,7 @@ from typing import Dict, List
 
 import aiohttp
 
-from src.models.article import Article
+
 from src.utils.rate_limiter import RateLimiter
 
 from src.fetchers.base_fetcher import BaseFetcher
