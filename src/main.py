@@ -4,6 +4,8 @@ import asyncio
 import sys
 
 from src.orchestrator import FetchOrchestrator
+from src.transformers.article_transformer import ArticleTransformer
+from src.storage.markdown_storage import MarkdownStorage
 
 
 async def main():
@@ -14,8 +16,10 @@ async def main():
     print("=" * 60)
 
     try:
+        transformer = ArticleTransformer()
+        storage = MarkdownStorage()
         # Run orchestrator
-        orchestrator = FetchOrchestrator()
+        orchestrator = FetchOrchestrator(transformer, storage)
         articles = await orchestrator.fetch_all()
 
         print("\n" + "=" * 60)

@@ -5,6 +5,7 @@ from typing import List
 
 from src.fetchers.hackernews_fetcher import HackerNewsFetcher
 from src.fetchers.rss_fetcher import RSSFetcher
+from src.fetchers.github_trending_fetcher import GitHubTrendingFetcher
 from src.models.article import Article
 from src.storage.markdown_storage import MarkdownStorage
 
@@ -16,28 +17,32 @@ class FetchOrchestrator:
     Coordinates HackerNews, RSS, and other fetchers.
     """
 
-    def __init__(self):
+    def __init__(self, transformer, storage):
         """Initialize orchestrator with all fetchers."""
         self.storage = MarkdownStorage()
-        self.fetchers = []
+        self.fetchers = [
+                    HackerNewsFetcher(transformer, storage),
+                    RSSFetcher("https://...", transformer, storage),
+                    GitHubTrendingFetcher(transformer, storage),  # Just add it!
+                ]
 
-        # Add fetchers
-        self._setup_fetchers()
+#         # Add fetchers
+#         self._setup_fetchers()
 
-    def _setup_fetchers(self):
-        """Setup all news fetchers."""
-        # HackerNews
-        self.fetchers.append(("HackerNews", HackerNewsFetcher()))
+#     def _setup_fetchers(self):
+#         """Setup all news fetchers."""
+#         # HackerNews
+#         self.fetchers.append(("HackerNews", HackerNewsFetcher()))
 
-        # RSS feeds
-        rss_feeds = [
-            ("HN RSS", "https://hnrss.org/frontpage"),
-        ]
+#         # RSS feeds
+#         rss_feeds = [
+#             ("HN RSS", "https://hnrss.org/frontpage"),
+#         ]
 
-        for name, url in rss_feeds:
-            self.fetchers.append((name, RSSFetcher(url)))
+#         for name, url in rss_feeds:
+#             self.fetchers.append((name, RSSFetcher(url)))
 
-    async def fetch_all(self) -> List[Article]:
+    async def fetch_all(self) -> List:
         """
         Fetch from all sources concurrently.
 
@@ -49,45 +54,46 @@ class FetchOrchestrator:
 
         # Create tasks for all fetchers
         tasks = []
-        for name, fetcher in self.fetchers:
+        for fetcher in self.fetchers:
             if isinstance(fetcher, HackerNewsFetcher):
-                task = fetcher.fetch(limit=30)
+                task = fetcher.fetch_and_save()
             else:
-                task = fetcher.fetch()
+                task = fetcher.fetch_and_save()
             tasks.append(task)
 
         # Fetch all concurrently
         results = await asyncio.gather(*tasks, return_exceptions=True)
 
-        # Combine articles
-        all_articles = []
-        for (name, _), result in zip(self.fetchers, results):
-            if isinstance(result, Exception):
-                print(f"⚠️  {name} failed: {result}")
-            else:
-                print(f"✅ {name}: {len(result)} articles")
-                all_articles.extend(result)
+        # # Combine articles
+        # all_articles = []
+        # for (name, _), result in zip(self.fetchers, results):
+        #     if isinstance(result, Exception):
+        #         print(f"⚠️  {name} failed: {result}")
+        #     else:
+        #         print(f"✅ {name}: {len(result)} articles")
+        #         all_articles.extend(result)
 
-        # Save combined results
-        if all_articles:
-            self.storage.save(all_articles, "all_articles.md")
+        # # Save combined results
+        # if all_articles:
+        #     self.storage.save(all_articles, "all_articles.md")
 
-        print(
-            f"\n🎉 Total: {len(all_articles)} articles from {len(self.fetchers)} sources"
-        )
-        return all_articles
-
-
-# Test it
-async def main():
-    """Test orchestrator."""
-    orchestrator = FetchOrchestrator()
-    articles = await orchestrator.fetch_all()
-
-    print(f"\n📊 Sample articles:")
-    for article in articles[:5]:
-        print(f"  [{article.source}] {article.title[:60]}...")
+        # print(
+        #     f"\n🎉 Total: {len(all_articles)} articles from {len(self.fetchers)} sources"
+        # )
+        # return all_articles
+        return results
 
 
-if __name__ == "__main__":
-    asyncio.run(main())
+# # Test it
+# async def main():
+#     """Test orchestrator."""
+#     orchestrator = FetchOrchestrator()
+#     articles = await orchestrator.fetch_all()
+
+#     print(f"\n📊 Sample articles:")
+#     for article in articles[:5]:
+#         print(f"  [{article.source}] {article.title[:60]}...")
+
+
+# if __name__ == "__main__":
+#     asyncio.run(main())
