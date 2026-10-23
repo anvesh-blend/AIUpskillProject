@@ -5,9 +5,10 @@ from pathlib import Path
 from typing import List
 
 from src.models.article import Article
+from src.storage.base_storage import ArticleStorage
 
 
-class MarkdownStorage:
+class MarkdownStorage(ArticleStorage):
     """
     Saves articles to markdown files.
 
@@ -24,7 +25,7 @@ class MarkdownStorage:
         self.base_path = Path(base_path)
         self.base_path.mkdir(parents=True, exist_ok=True)
 
-    def save(self, articles: List[Article], filename: str = None) -> Path:
+    def save(self, articles: List[Article], filename: str = '') -> Path:
         """
         Save articles to markdown file.
 
