@@ -27,7 +27,12 @@ REQUIRED_PACKAGES = [
     "dotenv",  # python-dotenv exposes itself as `dotenv`
     "pytest",
 ]
-PROVIDER_KEYS = ("ANTHROPIC_API_KEY", "OPENAI_API_KEY", "GEMINI_API_KEY")
+PROVIDER_KEYS = (
+    "AZURE_API_KEY",
+    "ANTHROPIC_API_KEY",
+    "OPENAI_API_KEY",
+    "GEMINI_API_KEY",
+)
 
 
 def fail(msg: str, fix: str = "") -> None:
