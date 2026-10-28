@@ -1,6 +1,6 @@
 """Agent that filters AI-relevant articles."""
 import json
-from typing import Dict, Any, List
+from typing import Any, Dict, List, Optional
 from pathlib import Path
 from src.agents.base_agent import BaseAgent
 from src.models.article import Article
@@ -15,8 +15,8 @@ class NewsFilterAgent(BaseAgent):
     saves filtered articles.
     """
     
-    def __init__(self):
-        super().__init__()
+    def __init__(self, tools: Optional[List[Dict]] = None):
+        super().__init__(tools=tools)
         self.relevance_threshold = 6  # Out of 10
     
     async def _load_context(self, input_path: str) -> Dict[str, Any]:
