@@ -1,609 +1,459 @@
 # News Articles
 
-**Generated:** 2026-09-27 06:57:59
+**Generated:** 2026-10-28 06:27:02
 
-**Total Articles:** 50
-
----
-
-## Does Georgism work? Five years later
-
-**Source:** hackernews  
-**URL:** https://www.astralcodexten.com/p/does-georgism-work-five-years-later  
-**Published:** 2026-09-25 13:48  
-**Score:** 252
-
-
+**Total Articles:** 41
 
 ---
 
-## Go Concurrency Distilled
+## Git for the US Code
 
 **Source:** hackernews  
-**URL:** https://antonz.org/go-concurrency-distilled/  
-**Published:** 2026-09-26 14:34  
-**Score:** 169
+**URL:** https://lexifina.com/blog/git-for-the-us-code  
+**Published:** 2026-10-28 01:47  
+**Score:** 170
 
 
 
 ---
 
-## PipePipe: NewPipe hard fork implementing SponsorBlock
+## Artificial Analysis Intelligence Index v5.0
 
 **Source:** hackernews  
-**URL:** https://github.com/InfinityLoop1308/PipePipe  
-**Published:** 2026-09-25 10:55  
-**Score:** 381
+**URL:** https://artificialanalysis.ai/methodology/intelligence-benchmarking  
+**Published:** 2026-10-28 05:29  
+**Score:** 18
 
 
 
 ---
 
-## DeepSeek Elastic Compute (DSec)
+## Genie 4
 
 **Source:** hackernews  
-**URL:** https://arxiv.org/abs/2609.22978  
-**Published:** 2026-09-26 18:22  
-**Score:** 228
+**URL:** https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/  
+**Published:** 2026-10-27 16:06  
+**Score:** 822
 
 
 
 ---
 
-## Show HN: Reladraw – A diagram language where you decide where to place things
+## Ghostty 1.4
 
 **Source:** hackernews  
-**URL:** https://github.com/reladraw/reladraw  
-**Published:** 2026-09-26 17:10  
-**Score:** 267
-
-I love making diagrams to help understand, plan, etc. However, the options are (A) auto-placement languages like Mermaid or Graphviz (which don&#x27;t let me decide how the diagram looks), or (B) soft
-
----
-
-## Flip Fluid on Flip Dots
-
-**Source:** hackernews  
-**URL:** https://mitxela.com/projects/flipflip  
-**Published:** 2026-09-26 07:50  
-**Score:** 13
+**URL:** https://ghostty.org/docs/install/release-notes/1-4-0  
+**Published:** 2026-10-27 16:51  
+**Score:** 902
 
 
 
 ---
 
-## Improving site performance by shipping more CSS
+## Ink droplets in motion snag top prize in Nikon Small World contest
 
 **Source:** hackernews  
-**URL:** https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/  
-**Published:** 2026-09-26 13:10  
-**Score:** 16
+**URL:** https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/  
+**Published:** 2026-10-25 18:49  
+**Score:** 163
 
 
 
 ---
 
-## What is the size of Yemen? (2024)
+## Survival LLM: AI assistant and emergency library that runs on your own computer
 
 **Source:** hackernews  
-**URL:** https://theborys.substack.com/p/what-is-the-size-of-yemen  
-**Published:** 2026-09-27 02:40  
-**Score:** 111
+**URL:** https://www.brangus.io/survival-llm  
+**Published:** 2026-10-27 19:55  
+**Score:** 283
 
 
 
 ---
 
-## A searchable library of forgotten public-domain film clips from 1915 onward
+## Tailscale SSH: Investigation and remediation update
 
 **Source:** hackernews  
-**URL:** https://www.movingimagearchive.com/  
-**Published:** 2026-09-24 16:11  
-**Score:** 151
+**URL:** https://tailscale.com/ssh-investigation-update  
+**Published:** 2026-10-27 19:55  
+**Score:** 254
 
 
 
 ---
 
-## An agent used DNS to reach an external chatbot
+## Early progress on accelerating drug development with Claude
 
 **Source:** hackernews  
-**URL:** https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/  
-**Published:** 2026-09-26 04:14  
-**Score:** 71
+**URL:** https://www.anthropic.com/research/early-progress-drug-development  
+**Published:** 2026-10-27 20:50  
+**Score:** 197
 
 
 
 ---
 
-## Evolving programming languages in the AI era
+## A Love Letter to the Super Dimension Fortress
 
 **Source:** hackernews  
-**URL:** https://dashbit.co/blog/evolving-ai-era  
-**Published:** 2026-09-25 02:34  
-**Score:** 79
+**URL:** https://brennan.day/a-love-letter-to-the-super-dimension-fortress/  
+**Published:** 2026-10-24 08:30  
+**Score:** 39
 
 
 
 ---
 
-## Drawgent: Coding agent on a live Excalidraw canvas
+## Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees
 
 **Source:** hackernews  
-**URL:** https://tangled.org/yanndegat.tngl.sh/drawgent  
-**Published:** 2026-09-26 15:56  
-**Score:** 141
+**URL:** https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/  
+**Published:** 2026-10-27 20:48  
+**Score:** 140
 
 
 
 ---
 
-## Fifteen years later, the Apple Cards origin story
+## Reviewers rarely talk about reliability. Owners bring it up twice as often
 
 **Source:** hackernews  
-**URL:** https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story  
-**Published:** 2026-09-26 09:13  
-**Score:** 385
+**URL:** https://www.bettascore.ai/research/reliability-reviewers-vs-owners  
+**Published:** 2026-10-27 22:31  
+**Score:** 102
 
 
 
 ---
 
-## Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC
+## MacOS Extensions Pack for the Apple Network Server v1.0
 
 **Source:** hackernews  
-**URL:** https://www.righto.com/2026/09/8087-tangent-cordic.html  
-**Published:** 2026-09-26 17:26  
-**Score:** 67
+**URL:** http://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html  
+**Published:** 2026-10-25 01:39  
+**Score:** 7
 
 
 
 ---
 
-## ASML says it sold 'absolutely nothing' in Europe in 2026
+## New 14‑inch MacBook Pro with M6
 
 **Source:** hackernews  
-**URL:** https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand  
-**Published:** 2026-09-25 13:49  
-**Score:** 232
+**URL:** https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/  
+**Published:** 2026-10-27 16:08  
+**Score:** 330
 
 
 
 ---
 
-## Snap Wants to be a State Actor??–Kansas v. Snap
+## Python's experimental JIT to be removed
 
 **Source:** hackernews  
-**URL:** https://blog.ericgoldman.org/archives/2026/09/snap-wants-to-be-a-state-actor-kansas-v-snap.htm  
-**Published:** 2026-09-25 17:12  
-**Score:** 42
+**URL:** https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/  
+**Published:** 2026-10-27 11:17  
+**Score:** 476
 
 
 
 ---
 
-## Turning GLM-5.3-Flash into a Jev-like decision model
+## 81 Jokes for the ZX81
 
 **Source:** hackernews  
-**URL:** https://www.privatemode.ai/blog/system-one-from-glm-flash  
-**Published:** 2026-09-26 15:49  
-**Score:** 80
-
-We found an approach to get Jev-like properties from standard LLMs like GLM-5.3-Flash.<p>The core idea is to craft the input prompt so that the first output token answers the question. This makes it p
-
----
-
-## Biology might not be quantum, but its math is quantumlike
-
-**Source:** hackernews  
-**URL:** https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/  
-**Published:** 2026-09-25 02:11  
-**Score:** 48
+**URL:** https://spelk.press/gb/products/81-jokes-for-the-zx81  
+**Published:** 2026-10-26 12:45  
+**Score:** 63
 
 
 
 ---
 
-## Exploding variance of means of exponentials: least-squares to the rescue
+## Assembly Nights (2021)
 
 **Source:** hackernews  
-**URL:** https://francisbach.com/spectral_log_density_estimation/  
-**Published:** 2026-09-25 22:48  
-**Score:** 20
+**URL:** https://ratfactor.com/assembly-nights  
+**Published:** 2026-10-25 12:35  
+**Score:** 43
 
 
 
 ---
 
-## We Should Be Able to Change Our Languages
+## SS United States to be sunk as largest artificial reef
 
 **Source:** hackernews  
-**URL:** http://jimmyhmiller.com/change-our-languages  
-**Published:** 2026-09-25 13:00  
-**Score:** 38
+**URL:** https://divemagazine.com/scuba-diving-news/ss-united-states-to-be-sunk-as-worlds-largest-artificial-reef-in-november  
+**Published:** 2026-10-26 04:41  
+**Score:** 118
 
 
 
 ---
 
-## How I changed teaching after AI managed to do all my homework assignments
+## Code-execution flaw in UEFI firmware threatens most servers on planet Earth
 
 **Source:** hackernews  
-**URL:** https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed  
-**Published:** 2026-09-24 20:51  
-**Score:** 180
+**URL:** https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/  
+**Published:** 2026-10-27 20:35  
+**Score:** 92
 
 
 
 ---
 
-## Promising discoveries about the potential for life on one of Saturn’s icy moons
+## Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs
 
 **Source:** hackernews  
-**URL:** https://www.fu-berlin.de/en/presse/informationen/fup/2026/fup_26_116-enceladus-cassini-mikroben-science-postberg/index.html  
-**Published:** 2026-09-26 03:23  
-**Score:** 45
-
-
-
----
-
-## How to keep enjoying programming in a world of LLMs
-
-**Source:** hackernews  
-**URL:** https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705  
-**Published:** 2026-09-26 09:41  
-**Score:** 205
-
-
-
----
-
-## Modern Object Pascal Introduction for Programmers
-
-**Source:** hackernews  
-**URL:** https://castle-engine.io/modern_pascal  
-**Published:** 2026-09-24 11:33  
-**Score:** 166
-
-
-
----
-
-## Real-time feedback: My closing move in every interview
-
-**Source:** hackernews  
-**URL:** https://mgrebler.substack.com/p/real-time-feedback-my-closing-move  
-**Published:** 2026-09-27 01:01  
-**Score:** 25
-
-
-
----
-
-## Generate fonts where every LLM token is the same width
-
-**Source:** hackernews  
-**URL:** https://ampdot.mesh.host/token-space-fonts.html  
-**Published:** 2026-09-26 00:30  
+**URL:** https://github.com/maharmstone/moxnox  
+**Published:** 2026-10-27 23:53  
 **Score:** 49
 
 
 
 ---
 
-## Welcome to the Medical Clinic at the Interplanetary Relay Station
+## New iMac with M6
 
 **Source:** hackernews  
-**URL:** https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/  
-**Published:** 2026-09-26 20:08  
-**Score:** 64
+**URL:** https://www.apple.com/imac/  
+**Published:** 2026-10-27 13:02  
+**Score:** 323
 
 
 
 ---
 
-## The Evolution of Vending Machines
+## Classification of Finite Simple Groups Formalized in Lean
 
 **Source:** hackernews  
-**URL:** https://www.saturdayeveningpost.com/2026/09/from-holy-water-to-frozen-meals-the-evolution-of-vending-machines/  
-**Published:** 2026-09-26 17:01  
-**Score:** 30
+**URL:** https://cfsg.axiommath.ai/  
+**Published:** 2026-10-27 16:29  
+**Score:** 195
 
 
 
 ---
 
-## LA Metro has some of the slowest escalators
+## What Happened to the Neanderthals?
 
 **Source:** hackernews  
-**URL:** https://basin.la/articles/ninety-feet-a-minute.html  
-**Published:** 2026-09-24 16:52  
-**Score:** 98
+**URL:** https://www.nytimes.com/2026/10/26/science/what-happened-to-the-neanderthals.html  
+**Published:** 2026-10-26 19:47  
+**Score:** 18
 
 
 
 ---
 
-## The Lost Atomic Update on Loongson CPU
+## An examination of lost firefly species of the US and Canada
 
 **Source:** hackernews  
-**URL:** https://jia.je/hardware/2026/09/24/loongson-cpu-erratum-en/  
-**Published:** 2026-09-24 08:36  
-**Score:** 120
+**URL:** https://journaloflostspecies.org/index.php/jls/article/view/37/33  
+**Published:** 2026-10-24 19:04  
+**Score:** 112
 
 
 
 ---
 
-## What is the size of Yemen? (2024)
+## Four Months of Zig
 
-**Source:** rss  
-**URL:** https://theborys.substack.com/p/what-is-the-size-of-yemen  
-**Published:** 2026-09-27 02:40  
-**Score:** 0
+**Source:** hackernews  
+**URL:** https://gracefulliberty.com/articles/four-months-of-zig/  
+**Published:** 2026-10-27 20:13  
+**Score:** 104
 
-Article URL: https://theborys.substack.com/p/what-is-the-size-of-yemen
-Comments URL: https://news.ycombinator.com/item?id=49862809
-Points: 108
-# Comments: 18
+
 
 ---
 
-## Real-time feedback: My closing move in every interview
+## Artificial Analysis Intelligence Index v5
 
-**Source:** rss  
-**URL:** https://mgrebler.substack.com/p/real-time-feedback-my-closing-move  
-**Published:** 2026-09-27 01:01  
-**Score:** 0
+**Source:** hackernews  
+**URL:** https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5  
+**Published:** 2026-10-28 03:06  
+**Score:** 12
 
-Article URL: https://mgrebler.substack.com/p/real-time-feedback-my-closing-move
-Comments URL: https://news.ycombinator.com/item?id=49862244
-Points: 24
-# Comments: 21
+
 
 ---
 
-## Welcome to the Medical Clinic at the Interplanetary Relay Station
+## US Government is hiding a secret court ruling about how it spies on Americans
 
-**Source:** rss  
-**URL:** https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/  
-**Published:** 2026-09-26 20:08  
-**Score:** 0
+**Source:** hackernews  
+**URL:** https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/  
+**Published:** 2026-10-27 14:06  
+**Score:** 889
 
-Article URL: https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/
-Comments URL: https://news.ycombinator.com/item?id=49860074
-Points: 63
-# Comm
+
 
 ---
 
-## DeepSeek Elastic Compute (DSec)
+## Radio-tagged Monarch butterflies
 
-**Source:** rss  
-**URL:** https://arxiv.org/abs/2609.22978  
-**Published:** 2026-09-26 18:22  
-**Score:** 0
+**Source:** hackernews  
+**URL:** https://news.vt.edu/articles/2026/10/cmi-monarchs.html  
+**Published:** 2026-10-27 17:48  
+**Score:** 46
 
-Article URL: https://arxiv.org/abs/2609.22978
-Comments URL: https://news.ycombinator.com/item?id=49859112
-Points: 226
-# Comments: 76
+<a href="https:&#x2F;&#x2F;celltracktech.com&#x2F;pages&#x2F;blumorpho" rel="nofollow">https:&#x2F;&#x2F;celltracktech.com&#x2F;pages&#x2F;blumorpho</a><p><a href="https:&#x2F;&#x2F;monarchresearch.or
 
 ---
 
-## Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC
+## Why Micron Is Suddenly Ditching 4F² DRAM as Rivals Double Down
 
-**Source:** rss  
-**URL:** https://www.righto.com/2026/09/8087-tangent-cordic.html  
-**Published:** 2026-09-26 17:26  
-**Score:** 0
+**Source:** hackernews  
+**URL:** https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram  
+**Published:** 2026-10-26 15:05  
+**Score:** 158
 
-Article URL: https://www.righto.com/2026/09/8087-tangent-cordic.html
-Comments URL: https://news.ycombinator.com/item?id=49858676
-Points: 67
-# Comments: 8
+
 
 ---
 
-## Show HN: Reladraw – A diagram language where you decide where to place things
+## Hunger beats tenure: Advice for junior engineers
 
-**Source:** rss  
-**URL:** https://github.com/reladraw/reladraw  
-**Published:** 2026-09-26 17:10  
-**Score:** 0
+**Source:** hackernews  
+**URL:** https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/  
+**Published:** 2026-10-27 22:25  
+**Score:** 28
 
-I love making diagrams to help understand, plan, etc. However, the options are (A) auto-placement languages like Mermaid or Graphviz (which don't let me decide how the diagram looks), or (B) software 
 
----
-
-## The Evolution of Vending Machines
-
-**Source:** rss  
-**URL:** https://www.saturdayeveningpost.com/2026/09/from-holy-water-to-frozen-meals-the-evolution-of-vending-machines/  
-**Published:** 2026-09-26 17:01  
-**Score:** 0
-
-Article URL: https://www.saturdayeveningpost.com/2026/09/from-holy-water-to-frozen-meals-the-evolution-of-vending-machines/
-Comments URL: https://news.ycombinator.com/item?id=49858424
-Points: 30
-# Com
 
 ---
 
-## Drawgent: Coding agent on a live Excalidraw canvas
+## Nvidia and Micron Make Up 34% of America's Earnings Boom
 
-**Source:** rss  
-**URL:** https://tangled.org/yanndegat.tngl.sh/drawgent  
-**Published:** 2026-09-26 15:56  
-**Score:** 0
+**Source:** hackernews  
+**URL:** https://www.wsj.com/finance/stocks/the-earnings-boom-is-heavily-reliant-on-just-a-handful-of-stocks-21decb53  
+**Published:** 2026-10-25 21:07  
+**Score:** 137
 
-Article URL: https://tangled.org/yanndegat.tngl.sh/drawgent
-Comments URL: https://news.ycombinator.com/item?id=49857729
-Points: 139
-# Comments: 37
+
 
 ---
 
-## Turning GLM-5.3-Flash into a Jev-like decision model
+## elayadesign/ai-design-skills
 
-**Source:** rss  
-**URL:** https://www.privatemode.ai/blog/system-one-from-glm-flash  
-**Published:** 2026-09-26 15:49  
+**Source:** github_trending  
+**URL:** https://github.com/elayadesign/ai-design-skills  
+**Published:** 2026-10-28 06:27  
 **Score:** 0
 
-We found an approach to get Jev-like properties from standard LLMs like GLM-5.3-Flash.The core idea is to craft the input prompt so that the first output token answers the question. This makes it poss
+ (⭐ 1,395 stars today)
 
 ---
 
-## Go Concurrency Distilled
+## Nutlope/hallmark
 
-**Source:** rss  
-**URL:** https://antonz.org/go-concurrency-distilled/  
-**Published:** 2026-09-26 14:34  
+**Source:** github_trending  
+**URL:** https://github.com/Nutlope/hallmark  
+**Published:** 2026-10-28 06:27  
 **Score:** 0
 
-Article URL: https://antonz.org/go-concurrency-distilled/
-Comments URL: https://news.ycombinator.com/item?id=49856988
-Points: 165
-# Comments: 49
+Anti-AI-slop design skill for Claude Code, Cursor, and Codex. (⭐ 2,830 stars today)
 
 ---
 
-## Improving site performance by shipping more CSS
+## nightly-labs/openbot
 
-**Source:** rss  
-**URL:** https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/  
-**Published:** 2026-09-26 13:10  
+**Source:** github_trending  
+**URL:** https://github.com/nightly-labs/openbot  
+**Published:** 2026-10-28 06:27  
 **Score:** 0
 
-Article URL: https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/
-Comments URL: https://news.ycombinator.com/item?id=49856193
-Points: 16
-# Comment
+A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration. (⭐ 777 stars today)
 
 ---
 
-## How to keep enjoying programming in a world of LLMs
+## obra/superpowers
 
-**Source:** rss  
-**URL:** https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705  
-**Published:** 2026-09-26 09:41  
+**Source:** github_trending  
+**URL:** https://github.com/obra/superpowers  
+**Published:** 2026-10-28 06:27  
 **Score:** 0
 
-Article URL: https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705
-Comments URL: https://news.ycombinator.com/item?id=49854875
-Points: 202
-# Comments: 249
+An agentic skills framework & software development methodology that works. (⭐ 617 stars today)
 
 ---
 
-## Fifteen years later, the Apple Cards origin story
+## pbakaus/impeccable
 
-**Source:** rss  
-**URL:** https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story  
-**Published:** 2026-09-26 09:13  
+**Source:** github_trending  
+**URL:** https://github.com/pbakaus/impeccable  
+**Published:** 2026-10-28 06:27  
 **Score:** 0
 
-Article URL: https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story
-Comments URL: https://news.ycombinator.com/item?id=49854693
-Points: 383
-# Comments: 95
+The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships. (⭐ 1,449 stars today)
 
 ---
 
-## Flip Fluid on Flip Dots
+## makecindy/cindy
 
-**Source:** rss  
-**URL:** https://mitxela.com/projects/flipflip  
-**Published:** 2026-09-26 07:50  
+**Source:** github_trending  
+**URL:** https://github.com/makecindy/cindy  
+**Published:** 2026-10-28 06:27  
 **Score:** 0
 
-Article URL: https://mitxela.com/projects/flipflip
-Comments URL: https://news.ycombinator.com/item?id=49854219
-Points: 11
-# Comments: 0
+Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 (⭐ 1,465 stars today)
 
 ---
 
-## An agent used DNS to reach an external chatbot
+## gitroomhq/postiz-app
 
-**Source:** rss  
-**URL:** https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/  
-**Published:** 2026-09-26 04:14  
+**Source:** github_trending  
+**URL:** https://github.com/gitroomhq/postiz-app  
+**Published:** 2026-10-28 06:27  
 **Score:** 0
 
-Article URL: https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/
-Comments URL: https://news.ycombinator.com/item?id=49853137
-Points: 67
-# Comments: 74
+📨 The ultimate agentic social media scheduling tool 🤖 (⭐ 951 stars today)
 
 ---
 
-## Promising discoveries about the potential for life on one of Saturn’s icy moons
+## affaan-m/ECC
 
-**Source:** rss  
-**URL:** https://www.fu-berlin.de/en/presse/informationen/fup/2026/fup_26_116-enceladus-cassini-mikroben-science-postberg/index.html  
-**Published:** 2026-09-26 03:23  
+**Source:** github_trending  
+**URL:** https://github.com/affaan-m/ECC  
+**Published:** 2026-10-28 06:27  
 **Score:** 0
 
-Article URL: https://www.fu-berlin.de/en/presse/informationen/fup/2026/fup_26_116-enceladus-cassini-mikroben-science-postberg/index.html
-Comments URL: https://news.ycombinator.com/item?id=49852905
-Poi
+The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. (⭐ 1,165 stars today)
 
 ---
 
-## Generate fonts where every LLM token is the same width
+## HKUDS/DeepTutor
 
-**Source:** rss  
-**URL:** https://ampdot.mesh.host/token-space-fonts.html  
-**Published:** 2026-09-26 00:30  
+**Source:** github_trending  
+**URL:** https://github.com/HKUDS/DeepTutor  
+**Published:** 2026-10-28 06:27  
 **Score:** 0
 
-Article URL: https://ampdot.mesh.host/token-space-fonts.html
-Comments URL: https://news.ycombinator.com/item?id=49851883
-Points: 49
-# Comments: 12
+DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. (⭐ 1,598 stars today)
 
 ---
 
-## Exploding variance of means of exponentials: least-squares to the rescue
+## JetBrains/thinkrail
 
-**Source:** rss  
-**URL:** https://francisbach.com/spectral_log_density_estimation/  
-**Published:** 2026-09-25 22:48  
+**Source:** github_trending  
+**URL:** https://github.com/JetBrains/thinkrail  
+**Published:** 2026-10-28 06:27  
 **Score:** 0
 
-Article URL: https://francisbach.com/spectral_log_density_estimation/
-Comments URL: https://news.ycombinator.com/item?id=49850991
-Points: 20
-# Comments: 0
+Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need (⭐ 1,204 stars today)
 
 ---
 
-## Snap Wants to be a State Actor??–Kansas v. Snap
+## togg53192-cmd/jailbreaks
 
-**Source:** rss  
-**URL:** https://blog.ericgoldman.org/archives/2026/09/snap-wants-to-be-a-state-actor-kansas-v-snap.htm  
-**Published:** 2026-09-25 17:12  
+**Source:** github_trending  
+**URL:** https://github.com/togg53192-cmd/jailbreaks  
+**Published:** 2026-10-28 06:27  
 **Score:** 0
 
-Article URL: https://blog.ericgoldman.org/archives/2026/09/snap-wants-to-be-a-state-actor-kansas-v-snap.htm
-Comments URL: https://news.ycombinator.com/item?id=49847247
-Points: 41
-# Comments: 10
-
----
-
-## ASML says it sold 'absolutely nothing' in Europe in 2026
-
-**Source:** rss  
-**URL:** https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand  
-**Published:** 2026-09-25 13:49  
-**Score:** 0
-
-Article URL: https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand
-Comments URL: https://news.ycombinator.com/ite
+LIST OF ALL MY JAILBREAKS (⭐ 902 stars today)
 
 ---
 

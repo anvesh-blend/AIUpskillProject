@@ -1,325 +1,336 @@
 # News Articles
 
-**Generated:** 2026-10-23 00:43:37
+**Generated:** 2026-10-28 06:27:01
 
-**Total Articles:** 29
-
----
-
-## Quad9 (DNS Resolver) to Exit France
-
-**Source:** hackernews  
-**URL:** https://quad9.net/news/blog/au-revoir-france/  
-**Published:** 2026-10-22 14:32  
-**Score:** 973
-
-
+**Total Articles:** 30
 
 ---
 
-## LLMs are making formal software verification feasible at a much larger scale
+## Git for the US Code
 
 **Source:** hackernews  
-**URL:** https://www.anthropic.com/research/formal-verification  
-**Published:** 2026-10-22 22:54  
-**Score:** 59
+**URL:** https://lexifina.com/blog/git-for-the-us-code  
+**Published:** 2026-10-28 01:47  
+**Score:** 170
 
 
 
 ---
 
-## Docker Is Weird
+## Artificial Analysis Intelligence Index v5.0
 
 **Source:** hackernews  
-**URL:** https://codeandcake.dev/posts/2026-10-22-docker-is-weird  
-**Published:** 2026-10-22 23:45  
-**Score:** 23
-
-
-
----
-
-## OpenShell – A safe, private runtime for fleets of autonomous AI agents
-
-**Source:** hackernews  
-**URL:** https://github.com/NVIDIA/OpenShell  
-**Published:** 2026-10-22 17:44  
-**Score:** 286
-
-
-
----
-
-## Woman faces six years in prison over Cash App account she never opened
-
-**Source:** hackernews  
-**URL:** https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html  
-**Published:** 2026-10-22 13:11  
-**Score:** 467
-
-
-
----
-
-## Every AI model has the same "controversial" take on humans
-
-**Source:** hackernews  
-**URL:** https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans  
-**Published:** 2026-10-22 16:08  
-**Score:** 222
-
-
-
----
-
-## Getting ready to operate GNU Taler in Germany
-
-**Source:** hackernews  
-**URL:** https://www.taler.net/en/news/2026-13.html  
-**Published:** 2026-10-22 16:14  
-**Score:** 221
-
-
-
----
-
-## Run full iOS 16.5 firmware on Android Devices
-
-**Source:** hackernews  
-**URL:** https://github.com/oosexgang/hackios-xnu-kernel  
-**Published:** 2026-10-22 15:26  
-**Score:** 318
-
-<a href="https:&#x2F;&#x2F;hackios-web.vercel.app&#x2F;en" rel="nofollow">https:&#x2F;&#x2F;hackios-web.vercel.app&#x2F;en</a>
-
----
-
-## Mapping the Northern Sky
-
-**Source:** hackernews  
-**URL:** https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/  
-**Published:** 2026-10-22 23:56  
-**Score:** 7
-
-
-
----
-
-## Jailbreaking the Switch 2
-
-**Source:** hackernews  
-**URL:** https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/  
-**Published:** 2026-10-22 08:01  
-**Score:** 704
-
-
-
----
-
-## What Is Gridifcation
-
-**Source:** hackernews  
-**URL:** https://musicalform.substack.com/p/what-is-gridifcation  
-**Published:** 2026-10-19 09:13  
-**Score:** 394
-
-
-
----
-
-## Hedra is a 3D open world game I wrote from scratch while in highschool
-
-**Source:** hackernews  
-**URL:** https://github.com/maxilevi/project-hedra/tree/pre-ai  
-**Published:** 2026-10-22 18:44  
-**Score:** 119
-
-
-
----
-
-## eMudhra to exit global SSL/TLS certificate business
-
-**Source:** hackernews  
-**URL:** https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business  
-**Published:** 2026-10-22 13:33  
-**Score:** 912
-
-
-
----
-
-## AI and the Enclosure of the Scientific Commons
-
-**Source:** hackernews  
-**URL:** https://arxiv.org/abs/2610.27251  
-**Published:** 2026-10-22 18:28  
-**Score:** 105
-
-
-
----
-
-## Xbox wants you to pay 24 to 40 cents per hour to stream games you bought
-
-**Source:** hackernews  
-**URL:** https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/  
-**Published:** 2026-10-22 11:42  
-**Score:** 192
-
-
-
----
-
-## Railpass
-
-**Source:** hackernews  
-**URL:** https://train.samismith.com/  
-**Published:** 2026-10-22 21:38  
-**Score:** 36
-
-
-
----
-
-## Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions
-
-**Source:** hackernews  
-**URL:** https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations  
-**Published:** 2026-10-22 21:24  
-**Score:** 275
-
-
-
----
-
-## AI compute is the new oil–and needs a new market
-
-**Source:** hackernews  
-**URL:** https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market  
-**Published:** 2026-10-22 23:45  
-**Score:** 4
-
-
-
----
-
-## How to Design Flowers
-
-**Source:** hackernews  
-**URL:** https://www.asimov.press/p/flowers  
-**Published:** 2026-10-20 14:00  
-**Score:** 12
-
-
-
----
-
-## Dungeon Generation in the Gnomish Mines of NetHack
-
-**Source:** hackernews  
-**URL:** https://www.boristhebrave.com/2026/10/18/dungeon-generation-in-the-gnomish-mines-of-nethack/  
-**Published:** 2026-10-19 16:06  
-**Score:** 120
-
-
-
----
-
-## Color Names
-
-**Source:** hackernews  
-**URL:** https://names.color.pizza  
-**Published:** 2026-10-20 16:27  
-**Score:** 4
-
-
-
----
-
-## Speeding up code review with `small-change`
-
-**Source:** hackernews  
-**URL:** https://lethain.com/small-changes/  
-**Published:** 2026-10-19 10:35  
+**URL:** https://artificialanalysis.ai/methodology/intelligence-benchmarking  
+**Published:** 2026-10-28 05:29  
 **Score:** 18
 
 
 
 ---
 
-## Faster than earcut: triangulating 3.7M map polygons in 489 ms
+## Genie 4
 
 **Source:** hackernews  
-**URL:** https://globus.software/blog/2026/10/16/cutting-map-polygons/  
-**Published:** 2026-10-22 09:31  
-**Score:** 199
+**URL:** https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/  
+**Published:** 2026-10-27 16:06  
+**Score:** 822
 
 
 
 ---
 
-## Show HN: Uberblok – an interactive museum of ZFS internals
+## Ghostty 1.4
 
 **Source:** hackernews  
-**URL:** https://uberblok.storagebits.workers.dev/  
-**Published:** 2026-10-21 13:04  
-**Score:** 72
-
-I&#x27;ve worked for a long time in the storage field during my career and ZFS is the piece of engineering I admire most in that space. I wanted a way to pay homage to it and to explore and better und
-
----
-
-## A farewell to Arc browser
-
-**Source:** hackernews  
-**URL:** https://arc.net/  
-**Published:** 2026-10-22 16:27  
-**Score:** 226
+**URL:** https://ghostty.org/docs/install/release-notes/1-4-0  
+**Published:** 2026-10-27 16:51  
+**Score:** 902
 
 
 
 ---
 
-## What’s getting pwned right now
+## Ink droplets in motion snag top prize in Nikon Small World contest
 
 **Source:** hackernews  
-**URL:** https://pwn.watch/  
-**Published:** 2026-10-22 14:08  
-**Score:** 334
+**URL:** https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/  
+**Published:** 2026-10-25 18:49  
+**Score:** 163
 
 
 
 ---
 
-## The phenomena that brighten dawn and dusk (2016)
+## Survival LLM: AI assistant and emergency library that runs on your own computer
 
 **Source:** hackernews  
-**URL:** https://www.colorado.edu/asmagazine-archive/node/2039  
-**Published:** 2026-10-20 21:05  
-**Score:** 24
+**URL:** https://www.brangus.io/survival-llm  
+**Published:** 2026-10-27 19:55  
+**Score:** 283
 
 
 
 ---
 
-## Startup taps underwater volcano as energy source in “proof point” test
+## Tailscale SSH: Investigation and remediation update
 
 **Source:** hackernews  
-**URL:** https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/  
-**Published:** 2026-10-19 20:12  
-**Score:** 122
+**URL:** https://tailscale.com/ssh-investigation-update  
+**Published:** 2026-10-27 19:55  
+**Score:** 254
 
 
 
 ---
 
-## The Last Museum: Semantic search across 5.8M artworks from major museums
+## Early progress on accelerating drug development with Claude
 
 **Source:** hackernews  
-**URL:** https://lastmuseum.com/  
-**Published:** 2026-10-22 12:40  
-**Score:** 105
+**URL:** https://www.anthropic.com/research/early-progress-drug-development  
+**Published:** 2026-10-27 20:50  
+**Score:** 197
+
+
+
+---
+
+## A Love Letter to the Super Dimension Fortress
+
+**Source:** hackernews  
+**URL:** https://brennan.day/a-love-letter-to-the-super-dimension-fortress/  
+**Published:** 2026-10-24 08:30  
+**Score:** 39
+
+
+
+---
+
+## Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees
+
+**Source:** hackernews  
+**URL:** https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/  
+**Published:** 2026-10-27 20:48  
+**Score:** 140
+
+
+
+---
+
+## Reviewers rarely talk about reliability. Owners bring it up twice as often
+
+**Source:** hackernews  
+**URL:** https://www.bettascore.ai/research/reliability-reviewers-vs-owners  
+**Published:** 2026-10-27 22:31  
+**Score:** 102
+
+
+
+---
+
+## MacOS Extensions Pack for the Apple Network Server v1.0
+
+**Source:** hackernews  
+**URL:** http://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html  
+**Published:** 2026-10-25 01:39  
+**Score:** 7
+
+
+
+---
+
+## New 14‑inch MacBook Pro with M6
+
+**Source:** hackernews  
+**URL:** https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/  
+**Published:** 2026-10-27 16:08  
+**Score:** 330
+
+
+
+---
+
+## Python's experimental JIT to be removed
+
+**Source:** hackernews  
+**URL:** https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/  
+**Published:** 2026-10-27 11:17  
+**Score:** 476
+
+
+
+---
+
+## 81 Jokes for the ZX81
+
+**Source:** hackernews  
+**URL:** https://spelk.press/gb/products/81-jokes-for-the-zx81  
+**Published:** 2026-10-26 12:45  
+**Score:** 63
+
+
+
+---
+
+## Assembly Nights (2021)
+
+**Source:** hackernews  
+**URL:** https://ratfactor.com/assembly-nights  
+**Published:** 2026-10-25 12:35  
+**Score:** 43
+
+
+
+---
+
+## SS United States to be sunk as largest artificial reef
+
+**Source:** hackernews  
+**URL:** https://divemagazine.com/scuba-diving-news/ss-united-states-to-be-sunk-as-worlds-largest-artificial-reef-in-november  
+**Published:** 2026-10-26 04:41  
+**Score:** 118
+
+
+
+---
+
+## Code-execution flaw in UEFI firmware threatens most servers on planet Earth
+
+**Source:** hackernews  
+**URL:** https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/  
+**Published:** 2026-10-27 20:35  
+**Score:** 92
+
+
+
+---
+
+## Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs
+
+**Source:** hackernews  
+**URL:** https://github.com/maharmstone/moxnox  
+**Published:** 2026-10-27 23:53  
+**Score:** 49
+
+
+
+---
+
+## New iMac with M6
+
+**Source:** hackernews  
+**URL:** https://www.apple.com/imac/  
+**Published:** 2026-10-27 13:02  
+**Score:** 323
+
+
+
+---
+
+## Classification of Finite Simple Groups Formalized in Lean
+
+**Source:** hackernews  
+**URL:** https://cfsg.axiommath.ai/  
+**Published:** 2026-10-27 16:29  
+**Score:** 195
+
+
+
+---
+
+## What Happened to the Neanderthals?
+
+**Source:** hackernews  
+**URL:** https://www.nytimes.com/2026/10/26/science/what-happened-to-the-neanderthals.html  
+**Published:** 2026-10-26 19:47  
+**Score:** 18
+
+
+
+---
+
+## An examination of lost firefly species of the US and Canada
+
+**Source:** hackernews  
+**URL:** https://journaloflostspecies.org/index.php/jls/article/view/37/33  
+**Published:** 2026-10-24 19:04  
+**Score:** 112
+
+
+
+---
+
+## Four Months of Zig
+
+**Source:** hackernews  
+**URL:** https://gracefulliberty.com/articles/four-months-of-zig/  
+**Published:** 2026-10-27 20:13  
+**Score:** 104
+
+
+
+---
+
+## Artificial Analysis Intelligence Index v5
+
+**Source:** hackernews  
+**URL:** https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5  
+**Published:** 2026-10-28 03:06  
+**Score:** 12
+
+
+
+---
+
+## US Government is hiding a secret court ruling about how it spies on Americans
+
+**Source:** hackernews  
+**URL:** https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/  
+**Published:** 2026-10-27 14:06  
+**Score:** 889
+
+
+
+---
+
+## Radio-tagged Monarch butterflies
+
+**Source:** hackernews  
+**URL:** https://news.vt.edu/articles/2026/10/cmi-monarchs.html  
+**Published:** 2026-10-27 17:48  
+**Score:** 46
+
+<a href="https:&#x2F;&#x2F;celltracktech.com&#x2F;pages&#x2F;blumorpho" rel="nofollow">https:&#x2F;&#x2F;celltracktech.com&#x2F;pages&#x2F;blumorpho</a><p><a href="https:&#x2F;&#x2F;monarchresearch.or
+
+---
+
+## Why Micron Is Suddenly Ditching 4F² DRAM as Rivals Double Down
+
+**Source:** hackernews  
+**URL:** https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram  
+**Published:** 2026-10-26 15:05  
+**Score:** 158
+
+
+
+---
+
+## Hunger beats tenure: Advice for junior engineers
+
+**Source:** hackernews  
+**URL:** https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/  
+**Published:** 2026-10-27 22:25  
+**Score:** 28
+
+
+
+---
+
+## Nvidia and Micron Make Up 34% of America's Earnings Boom
+
+**Source:** hackernews  
+**URL:** https://www.wsj.com/finance/stocks/the-earnings-boom-is-heavily-reliant-on-just-a-handful-of-stocks-21decb53  
+**Published:** 2026-10-25 21:07  
+**Score:** 137
 
 
 

@@ -1,107 +1,129 @@
 # News Articles
 
-**Generated:** 2026-10-23 00:43:38
+**Generated:** 2026-10-28 06:27:02
 
-**Total Articles:** 9
-
----
-
-## php/php-src
-
-**Source:** github_trending  
-**URL:** https://github.com/php/php-src  
-**Published:** 2026-10-23 00:43  
-**Score:** 0
-
-The PHP Interpreter (⭐ 287 stars today)
+**Total Articles:** 11
 
 ---
 
-## anthropics/knowledge-work-plugins
+## elayadesign/ai-design-skills
 
 **Source:** github_trending  
-**URL:** https://github.com/anthropics/knowledge-work-plugins  
-**Published:** 2026-10-23 00:43  
+**URL:** https://github.com/elayadesign/ai-design-skills  
+**Published:** 2026-10-28 06:27  
 **Score:** 0
 
-Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork (⭐ 303 stars today)
+ (⭐ 1,395 stars today)
 
 ---
 
-## DietrichGebert/ponytail
+## Nutlope/hallmark
 
 **Source:** github_trending  
-**URL:** https://github.com/DietrichGebert/ponytail  
-**Published:** 2026-10-23 00:43  
+**URL:** https://github.com/Nutlope/hallmark  
+**Published:** 2026-10-28 06:27  
 **Score:** 0
 
-Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (⭐ 1,948 stars today)
+Anti-AI-slop design skill for Claude Code, Cursor, and Codex. (⭐ 2,830 stars today)
 
 ---
 
-## cloudflare/security-audit-skill
+## nightly-labs/openbot
 
 **Source:** github_trending  
-**URL:** https://github.com/cloudflare/security-audit-skill  
-**Published:** 2026-10-23 00:43  
+**URL:** https://github.com/nightly-labs/openbot  
+**Published:** 2026-10-28 06:27  
 **Score:** 0
 
-A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings (⭐ 2,979 stars today)
+A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration. (⭐ 777 stars today)
 
 ---
 
-## Graphify-Labs/graphify
+## obra/superpowers
 
 **Source:** github_trending  
-**URL:** https://github.com/Graphify-Labs/graphify  
-**Published:** 2026-10-23 00:43  
+**URL:** https://github.com/obra/superpowers  
+**Published:** 2026-10-28 06:27  
 **Score:** 0
 
-Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store. (⭐ 1,408 stars today)
+An agentic skills framework & software development methodology that works. (⭐ 617 stars today)
 
 ---
 
-## supabase/supabase
+## pbakaus/impeccable
 
 **Source:** github_trending  
-**URL:** https://github.com/supabase/supabase  
-**Published:** 2026-10-23 00:43  
+**URL:** https://github.com/pbakaus/impeccable  
+**Published:** 2026-10-28 06:27  
 **Score:** 0
 
-The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (⭐ 693 stars today)
+The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships. (⭐ 1,449 stars today)
 
 ---
 
-## fastapi/fastapi
+## makecindy/cindy
 
 **Source:** github_trending  
-**URL:** https://github.com/fastapi/fastapi  
-**Published:** 2026-10-23 00:43  
+**URL:** https://github.com/makecindy/cindy  
+**Published:** 2026-10-28 06:27  
 **Score:** 0
 
-FastAPI framework, high performance, easy to learn, fast to code, ready for production (⭐ 101 stars today)
+Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 (⭐ 1,465 stars today)
 
 ---
 
-## luongnv89/claude-howto
+## gitroomhq/postiz-app
 
 **Source:** github_trending  
-**URL:** https://github.com/luongnv89/claude-howto  
-**Published:** 2026-10-23 00:43  
+**URL:** https://github.com/gitroomhq/postiz-app  
+**Published:** 2026-10-28 06:27  
 **Score:** 0
 
-A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. (⭐ 177 stars today)
+📨 The ultimate agentic social media scheduling tool 🤖 (⭐ 951 stars today)
 
 ---
 
-## Meloong-Git/PCL
+## affaan-m/ECC
 
 **Source:** github_trending  
-**URL:** https://github.com/Meloong-Git/PCL  
-**Published:** 2026-10-23 00:43  
+**URL:** https://github.com/affaan-m/ECC  
+**Published:** 2026-10-28 06:27  
 **Score:** 0
 
-Minecraft 启动器 Plain Craft Launcher（PCL）。 (⭐ 119 stars today)
+The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. (⭐ 1,165 stars today)
+
+---
+
+## HKUDS/DeepTutor
+
+**Source:** github_trending  
+**URL:** https://github.com/HKUDS/DeepTutor  
+**Published:** 2026-10-28 06:27  
+**Score:** 0
+
+DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. (⭐ 1,598 stars today)
+
+---
+
+## JetBrains/thinkrail
+
+**Source:** github_trending  
+**URL:** https://github.com/JetBrains/thinkrail  
+**Published:** 2026-10-28 06:27  
+**Score:** 0
+
+Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need (⭐ 1,204 stars today)
+
+---
+
+## togg53192-cmd/jailbreaks
+
+**Source:** github_trending  
+**URL:** https://github.com/togg53192-cmd/jailbreaks  
+**Published:** 2026-10-28 06:27  
+**Score:** 0
+
+LIST OF ALL MY JAILBREAKS (⭐ 902 stars today)
 
 ---
 
