@@ -1,459 +1,482 @@
 # News Articles
 
-**Generated:** 2026-10-28 06:27:02
+**Generated:** 2026-11-02 17:14:57
 
-**Total Articles:** 41
-
----
-
-## Git for the US Code
-
-**Source:** hackernews  
-**URL:** https://lexifina.com/blog/git-for-the-us-code  
-**Published:** 2026-10-28 01:47  
-**Score:** 170
-
-
+**Total Articles:** 43
 
 ---
 
-## Artificial Analysis Intelligence Index v5.0
+## Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app
 
 **Source:** hackernews  
-**URL:** https://artificialanalysis.ai/methodology/intelligence-benchmarking  
-**Published:** 2026-10-28 05:29  
-**Score:** 18
+**URL:** https://momentic.ai/  
+**Published:** 2026-11-02 17:05  
+**Score:** 14
 
-
+Hey HN, we’re Wei-Wei and Jeff. We’re building Momentic, QA agents that autonomously plan, explore, and bug-bash controls and user flows in your web, iOS, Android, and (soon) desktop apps to catch bug
 
 ---
 
-## Genie 4
+## Show HN: Warsaw in voxels – an interactive 3D map of the city centre
 
 **Source:** hackernews  
-**URL:** https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/  
-**Published:** 2026-10-27 16:06  
-**Score:** 822
+**URL:** https://p.migdal.pl/warsaw-vibe-voxel/  
+**Published:** 2026-11-02 16:25  
+**Score:** 29
 
-
+Explore central Warsaw in voxels - slightly inspired by Minecraft, and MagicaVoxel. 
+You can change the date, time of day and weather, explore the city, or click on a pedestrian to control them (here 
 
 ---
 
-## Ghostty 1.4
+## Moving our warehouse off DuckDB
 
 **Source:** hackernews  
-**URL:** https://ghostty.org/docs/install/release-notes/1-4-0  
-**Published:** 2026-10-27 16:51  
-**Score:** 902
+**URL:** https://posthog.com/blog/moving-off-duckdb  
+**Published:** 2026-11-02 16:02  
+**Score:** 65
 
 
 
 ---
 
-## Ink droplets in motion snag top prize in Nikon Small World contest
+## If you love a website, back it up
 
 **Source:** hackernews  
-**URL:** https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/  
-**Published:** 2026-10-25 18:49  
-**Score:** 163
-
-
-
----
-
-## Survival LLM: AI assistant and emergency library that runs on your own computer
-
-**Source:** hackernews  
-**URL:** https://www.brangus.io/survival-llm  
-**Published:** 2026-10-27 19:55  
-**Score:** 283
-
-
-
----
-
-## Tailscale SSH: Investigation and remediation update
-
-**Source:** hackernews  
-**URL:** https://tailscale.com/ssh-investigation-update  
-**Published:** 2026-10-27 19:55  
-**Score:** 254
-
-
-
----
-
-## Early progress on accelerating drug development with Claude
-
-**Source:** hackernews  
-**URL:** https://www.anthropic.com/research/early-progress-drug-development  
-**Published:** 2026-10-27 20:50  
-**Score:** 197
-
-
-
----
-
-## A Love Letter to the Super Dimension Fortress
-
-**Source:** hackernews  
-**URL:** https://brennan.day/a-love-letter-to-the-super-dimension-fortress/  
-**Published:** 2026-10-24 08:30  
-**Score:** 39
-
-
-
----
-
-## Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees
-
-**Source:** hackernews  
-**URL:** https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/  
-**Published:** 2026-10-27 20:48  
-**Score:** 140
-
-
-
----
-
-## Reviewers rarely talk about reliability. Owners bring it up twice as often
-
-**Source:** hackernews  
-**URL:** https://www.bettascore.ai/research/reliability-reviewers-vs-owners  
-**Published:** 2026-10-27 22:31  
-**Score:** 102
-
-
-
----
-
-## MacOS Extensions Pack for the Apple Network Server v1.0
-
-**Source:** hackernews  
-**URL:** http://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html  
-**Published:** 2026-10-25 01:39  
-**Score:** 7
-
-
-
----
-
-## New 14‑inch MacBook Pro with M6
-
-**Source:** hackernews  
-**URL:** https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/  
-**Published:** 2026-10-27 16:08  
-**Score:** 330
-
-
-
----
-
-## Python's experimental JIT to be removed
-
-**Source:** hackernews  
-**URL:** https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/  
-**Published:** 2026-10-27 11:17  
-**Score:** 476
-
-
-
----
-
-## 81 Jokes for the ZX81
-
-**Source:** hackernews  
-**URL:** https://spelk.press/gb/products/81-jokes-for-the-zx81  
-**Published:** 2026-10-26 12:45  
-**Score:** 63
-
-
-
----
-
-## Assembly Nights (2021)
-
-**Source:** hackernews  
-**URL:** https://ratfactor.com/assembly-nights  
-**Published:** 2026-10-25 12:35  
-**Score:** 43
-
-
-
----
-
-## SS United States to be sunk as largest artificial reef
-
-**Source:** hackernews  
-**URL:** https://divemagazine.com/scuba-diving-news/ss-united-states-to-be-sunk-as-worlds-largest-artificial-reef-in-november  
-**Published:** 2026-10-26 04:41  
-**Score:** 118
-
-
-
----
-
-## Code-execution flaw in UEFI firmware threatens most servers on planet Earth
-
-**Source:** hackernews  
-**URL:** https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/  
-**Published:** 2026-10-27 20:35  
-**Score:** 92
-
-
-
----
-
-## Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs
-
-**Source:** hackernews  
-**URL:** https://github.com/maharmstone/moxnox  
-**Published:** 2026-10-27 23:53  
-**Score:** 49
-
-
-
----
-
-## New iMac with M6
-
-**Source:** hackernews  
-**URL:** https://www.apple.com/imac/  
-**Published:** 2026-10-27 13:02  
-**Score:** 323
-
-
-
----
-
-## Classification of Finite Simple Groups Formalized in Lean
-
-**Source:** hackernews  
-**URL:** https://cfsg.axiommath.ai/  
-**Published:** 2026-10-27 16:29  
-**Score:** 195
-
-
-
----
-
-## What Happened to the Neanderthals?
-
-**Source:** hackernews  
-**URL:** https://www.nytimes.com/2026/10/26/science/what-happened-to-the-neanderthals.html  
-**Published:** 2026-10-26 19:47  
-**Score:** 18
-
-
-
----
-
-## An examination of lost firefly species of the US and Canada
-
-**Source:** hackernews  
-**URL:** https://journaloflostspecies.org/index.php/jls/article/view/37/33  
-**Published:** 2026-10-24 19:04  
+**URL:** https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/  
+**Published:** 2026-11-02 13:25  
 **Score:** 112
 
 
 
 ---
 
-## Four Months of Zig
+## Bitmovin (YC S15) Is Hiring Technical Graduates in Denver (Engineering/CS Focus)
 
 **Source:** hackernews  
-**URL:** https://gracefulliberty.com/articles/four-months-of-zig/  
-**Published:** 2026-10-27 20:13  
-**Score:** 104
+**URL:** https://bitmovin.com/careers/8660599002/  
+**Published:** 2026-11-02 17:00  
+**Score:** 1
 
 
 
 ---
 
-## Artificial Analysis Intelligence Index v5
+## GPT-Rosalind-6 System Card Addendum
 
 **Source:** hackernews  
-**URL:** https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5  
-**Published:** 2026-10-28 03:06  
-**Score:** 12
-
-
-
----
-
-## US Government is hiding a secret court ruling about how it spies on Americans
-
-**Source:** hackernews  
-**URL:** https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/  
-**Published:** 2026-10-27 14:06  
-**Score:** 889
-
-
-
----
-
-## Radio-tagged Monarch butterflies
-
-**Source:** hackernews  
-**URL:** https://news.vt.edu/articles/2026/10/cmi-monarchs.html  
-**Published:** 2026-10-27 17:48  
-**Score:** 46
-
-<a href="https:&#x2F;&#x2F;celltracktech.com&#x2F;pages&#x2F;blumorpho" rel="nofollow">https:&#x2F;&#x2F;celltracktech.com&#x2F;pages&#x2F;blumorpho</a><p><a href="https:&#x2F;&#x2F;monarchresearch.or
-
----
-
-## Why Micron Is Suddenly Ditching 4F² DRAM as Rivals Double Down
-
-**Source:** hackernews  
-**URL:** https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram  
-**Published:** 2026-10-26 15:05  
-**Score:** 158
-
-
-
----
-
-## Hunger beats tenure: Advice for junior engineers
-
-**Source:** hackernews  
-**URL:** https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/  
-**Published:** 2026-10-27 22:25  
+**URL:** https://deploymentsafety.openai.com/gpt-rosalind-6  
+**Published:** 2026-11-02 14:44  
 **Score:** 28
 
 
 
 ---
 
-## Nvidia and Micron Make Up 34% of America's Earnings Boom
+## LongCat-2.5: Native Multimodality for Agentic Tasks
 
 **Source:** hackernews  
-**URL:** https://www.wsj.com/finance/stocks/the-earnings-boom-is-heavily-reliant-on-just-a-handful-of-stocks-21decb53  
-**Published:** 2026-10-25 21:07  
-**Score:** 137
+**URL:** https://longcat.ai/blog/longcat-2.5/  
+**Published:** 2026-11-02 15:00  
+**Score:** 40
 
 
 
 ---
 
-## elayadesign/ai-design-skills
+## We halved DNS build delay and cut memory use by 85%
 
-**Source:** github_trending  
-**URL:** https://github.com/elayadesign/ai-design-skills  
-**Published:** 2026-10-28 06:27  
-**Score:** 0
+**Source:** hackernews  
+**URL:** https://blog.cloudflare.com/dns-targeted-zone-builds/  
+**Published:** 2026-11-02 14:47  
+**Score:** 27
 
- (⭐ 1,395 stars today)
 
----
-
-## Nutlope/hallmark
-
-**Source:** github_trending  
-**URL:** https://github.com/Nutlope/hallmark  
-**Published:** 2026-10-28 06:27  
-**Score:** 0
-
-Anti-AI-slop design skill for Claude Code, Cursor, and Codex. (⭐ 2,830 stars today)
 
 ---
 
-## nightly-labs/openbot
+## Postgres 19 is late because so many more bugs are being found now
 
-**Source:** github_trending  
-**URL:** https://github.com/nightly-labs/openbot  
-**Published:** 2026-10-28 06:27  
-**Score:** 0
+**Source:** hackernews  
+**URL:** http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html  
+**Published:** 2026-10-31 01:38  
+**Score:** 753
 
-A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration. (⭐ 777 stars today)
 
----
-
-## obra/superpowers
-
-**Source:** github_trending  
-**URL:** https://github.com/obra/superpowers  
-**Published:** 2026-10-28 06:27  
-**Score:** 0
-
-An agentic skills framework & software development methodology that works. (⭐ 617 stars today)
 
 ---
 
-## pbakaus/impeccable
+## My Favourite Laptop
 
-**Source:** github_trending  
-**URL:** https://github.com/pbakaus/impeccable  
-**Published:** 2026-10-28 06:27  
-**Score:** 0
+**Source:** hackernews  
+**URL:** https://blog.jsbarretto.com/post/laptop  
+**Published:** 2026-11-02 16:59  
+**Score:** 6
 
-The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships. (⭐ 1,449 stars today)
 
----
-
-## makecindy/cindy
-
-**Source:** github_trending  
-**URL:** https://github.com/makecindy/cindy  
-**Published:** 2026-10-28 06:27  
-**Score:** 0
-
-Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 (⭐ 1,465 stars today)
 
 ---
 
-## gitroomhq/postiz-app
+## Show HN: I've updated my Linux System Call website and API
 
-**Source:** github_trending  
-**URL:** https://github.com/gitroomhq/postiz-app  
-**Published:** 2026-10-28 06:27  
-**Score:** 0
+**Source:** hackernews  
+**URL:** https://syscall.sh/  
+**Published:** 2026-11-02 09:29  
+**Score:** 160
 
-📨 The ultimate agentic social media scheduling tool 🤖 (⭐ 951 stars today)
-
----
-
-## affaan-m/ECC
-
-**Source:** github_trending  
-**URL:** https://github.com/affaan-m/ECC  
-**Published:** 2026-10-28 06:27  
-**Score:** 0
-
-The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. (⭐ 1,165 stars today)
+I first released those in back in 2020 and now I finally added more architectures, Kernel selector, syscall descriptions and a few other niceties. It should work a bit better on mobile devices too but
 
 ---
 
-## HKUDS/DeepTutor
+## Show HN: VHS Camera – Run your camera or videos through a simulated VHS signal
 
-**Source:** github_trending  
-**URL:** https://github.com/HKUDS/DeepTutor  
-**Published:** 2026-10-28 06:27  
-**Score:** 0
+**Source:** hackernews  
+**URL:** https://fotojockovic.com/vhs  
+**Published:** 2026-11-02 16:08  
+**Score:** 10
 
-DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. (⭐ 1,598 stars today)
 
----
-
-## JetBrains/thinkrail
-
-**Source:** github_trending  
-**URL:** https://github.com/JetBrains/thinkrail  
-**Published:** 2026-10-28 06:27  
-**Score:** 0
-
-Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need (⭐ 1,204 stars today)
 
 ---
 
-## togg53192-cmd/jailbreaks
+## Supermarket freezers across Europe hit by second suspected cyber-attack
+
+**Source:** hackernews  
+**URL:** https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack  
+**Published:** 2026-11-02 11:50  
+**Score:** 205
+
+<a href="https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;cq1kd1nee80eo" rel="nofollow">https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;cq1kd1nee80eo</a><p><a href="https:&#x2F;&#
+
+---
+
+## Bones may release proteins that slow aging and extend life span
+
+**Source:** hackernews  
+**URL:** https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span  
+**Published:** 2026-11-02 01:31  
+**Score:** 257
+
+
+
+---
+
+## Anthropic's internal AI use, at retail prices, now exceeds its employee pay
+
+**Source:** hackernews  
+**URL:** https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11  
+**Published:** 2026-11-02 16:40  
+**Score:** 12
+
+
+
+---
+
+## WTF Ubuntu?
+
+**Source:** hackernews  
+**URL:** https://chalmovsky.com/posts/wtf-ubuntu  
+**Published:** 2026-11-02 14:52  
+**Score:** 671
+
+
+
+---
+
+## C64 Basic Dungeon Crawler: Stairs, Levels and Levelling Up (Part 11)
+
+**Source:** hackernews  
+**URL:** https://retrogamecoders.com/c64-basic-dungeon-part11/  
+**Published:** 2026-11-02 14:56  
+**Score:** 7
+
+
+
+---
+
+## F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix
+
+**Source:** hackernews  
+**URL:** https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/  
+**Published:** 2026-11-02 01:59  
+**Score:** 193
+
+
+
+---
+
+## Why are Soviet math textbooks so hardcore in comparison to US textbooks? (2017)
+
+**Source:** hackernews  
+**URL:** https://www.quora.com/Why-are-Soviet-mathematics-physics-textbooks-so-insanely-hardcore-in-comparison-to-US-textbooks/answer/Scott-Miller-307?share=1  
+**Published:** 2026-11-02 15:01  
+**Score:** 103
+
+
+
+---
+
+## Mystery of 60-Second Fluctuations in Power Grids Solved
+
+**Source:** hackernews  
+**URL:** https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved  
+**Published:** 2026-10-31 11:53  
+**Score:** 233
+
+
+
+---
+
+## Show HN: HackerBooks – HackerTube, but for books mentioned on HN
+
+**Source:** hackernews  
+**URL:** https://hackerbooks.org  
+**Published:** 2026-11-01 15:58  
+**Score:** 1761
+
+Saw Karpathy&#x27;s HackerTube and wanted the same thing for books. So I had Claude build one (Opus 5.5).<p>It&#x27;s ~16.5k books that at least two different HN commenters brought up, from 2007 till 
+
+---
+
+## Last night an AI agent performed brain surgery on a mouse
+
+**Source:** hackernews  
+**URL:** https://twitter.com/OcanaSantero/status/2115442964574908902  
+**Published:** 2026-11-02 12:50  
+**Score:** 75
+
+
+
+---
+
+## Trigger.dev customer environment variables exposed
+
+**Source:** hackernews  
+**URL:** https://trigger.dev/blog/security-incident-nov-2026  
+**Published:** 2026-11-02 01:09  
+**Score:** 154
+
+
+
+---
+
+## Napping characteristics and incident dementia
+
+**Source:** hackernews  
+**URL:** https://academic.oup.com/biomedgerontology/article/81/10/glag208/8769491?login=false  
+**Published:** 2026-11-02 14:53  
+**Score:** 22
+
+
+
+---
+
+## Wir müssen wissen – wir werden wissen
+
+**Source:** hackernews  
+**URL:** https://remy.wang/blog/hilbert.html  
+**Published:** 2026-11-02 08:07  
+**Score:** 37
+
+
+
+---
+
+## HackerTube: YouTube built from videos recommended by HN
+
+**Source:** hackernews  
+**URL:** https://karpathy.bearblog.dev/hacker-tube/  
+**Published:** 2026-10-31 19:56  
+**Score:** 2770
+
+YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007.<p><a href="https:&#x2F;&#x2F;hackertube.org&#x2F;" rel="nofollow">https:&#x2F;&#x2F;hackertube.org&#x2F;</a>
+
+---
+
+## Anthropic reports $17B in Q3 revenue, commitments of $895B in revised S-1
+
+**Source:** hackernews  
+**URL:** https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html  
+**Published:** 2026-11-02 14:38  
+**Score:** 171
+
+
+
+---
+
+## Nibnib: Image compression with extreme decompression speed
+
+**Source:** hackernews  
+**URL:** https://github.com/raphlinus/nibnib  
+**Published:** 2026-10-30 04:17  
+**Score:** 181
+
+
+
+---
+
+## vercel-labs/agent-desktop
 
 **Source:** github_trending  
-**URL:** https://github.com/togg53192-cmd/jailbreaks  
-**Published:** 2026-10-28 06:27  
+**URL:** https://github.com/vercel-labs/agent-desktop  
+**Published:** 2026-11-02 17:14  
 **Score:** 0
 
-LIST OF ALL MY JAILBREAKS (⭐ 902 stars today)
+Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions stay safe to retry, instead of guessing from pixels. (⭐ 2,243 stars today)
+
+---
+
+## thedotmack/claude-mem
+
+**Source:** github_trending  
+**URL:** https://github.com/thedotmack/claude-mem  
+**Published:** 2026-11-02 17:14  
+**Score:** 0
+
+Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More (⭐ 1,799 stars today)
+
+---
+
+## D4Vinci/Scrapling
+
+**Source:** github_trending  
+**URL:** https://github.com/D4Vinci/Scrapling  
+**Published:** 2026-11-02 17:14  
+**Score:** 0
+
+🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev (⭐ 858 stars today)
+
+---
+
+## hyprwm/Hyprland
+
+**Source:** github_trending  
+**URL:** https://github.com/hyprwm/Hyprland  
+**Published:** 2026-11-02 17:14  
+**Score:** 0
+
+Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks. (⭐ 508 stars today)
+
+---
+
+## Donchitos/Claude-Code-Game-Studios
+
+**Source:** github_trending  
+**URL:** https://github.com/Donchitos/Claude-Code-Game-Studios  
+**Published:** 2026-11-02 17:14  
+**Score:** 0
+
+Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy. (⭐ 1,380 stars today)
+
+---
+
+## FlashML-org/FreeToken
+
+**Source:** github_trending  
+**URL:** https://github.com/FlashML-org/FreeToken  
+**Published:** 2026-11-02 17:14  
+**Score:** 0
+
+FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently. (⭐ 654 stars today)
+
+---
+
+## pingdotgg/t3code
+
+**Source:** github_trending  
+**URL:** https://github.com/pingdotgg/t3code  
+**Published:** 2026-11-02 17:14  
+**Score:** 0
+
+ (⭐ 3,216 stars today)
+
+---
+
+## shiyu-coder/Kronos
+
+**Source:** github_trending  
+**URL:** https://github.com/shiyu-coder/Kronos  
+**Published:** 2026-11-02 17:14  
+**Score:** 0
+
+Kronos: A Foundation Model for the Language of Financial Markets (⭐ 855 stars today)
+
+---
+
+## kornia/kornia
+
+**Source:** github_trending  
+**URL:** https://github.com/kornia/kornia  
+**Published:** 2026-11-02 17:14  
+**Score:** 0
+
+🐍 Geometric Computer Vision Library for Spatial AI (⭐ 412 stars today)
+
+---
+
+## JustVugg/colibri
+
+**Source:** github_trending  
+**URL:** https://github.com/JustVugg/colibri  
+**Published:** 2026-11-02 17:14  
+**Score:** 0
+
+Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 (⭐ 655 stars today)
+
+---
+
+## mattpocock/skills
+
+**Source:** github_trending  
+**URL:** https://github.com/mattpocock/skills  
+**Published:** 2026-11-02 17:14  
+**Score:** 0
+
+Skills for Real Engineers. Straight from my .agents directory. (⭐ 970 stars today)
+
+---
+
+## max-sixty/worktrunk
+
+**Source:** github_trending  
+**URL:** https://github.com/max-sixty/worktrunk  
+**Published:** 2026-11-02 17:14  
+**Score:** 0
+
+Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows (⭐ 136 stars today)
+
+---
+
+## paperclipai/paperclip
+
+**Source:** github_trending  
+**URL:** https://github.com/paperclipai/paperclip  
+**Published:** 2026-11-02 17:14  
+**Score:** 0
+
+The open-source app everyone uses to manage agents at work (⭐ 451 stars today)
+
+---
+
+## karpathy/nanochat
+
+**Source:** github_trending  
+**URL:** https://github.com/karpathy/nanochat  
+**Published:** 2026-11-02 17:14  
+**Score:** 0
+
+The best ChatGPT that $100 can buy. (⭐ 325 stars today)
+
+---
+
+## p-e-w/heretic
+
+**Source:** github_trending  
+**URL:** https://github.com/p-e-w/heretic  
+**Published:** 2026-11-02 17:14  
+**Score:** 0
+
+Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more (⭐ 404 stars today)
 
 ---
 

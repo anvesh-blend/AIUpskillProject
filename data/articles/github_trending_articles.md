@@ -1,129 +1,173 @@
 # News Articles
 
-**Generated:** 2026-10-28 06:27:02
+**Generated:** 2026-11-02 17:14:57
 
-**Total Articles:** 11
-
----
-
-## elayadesign/ai-design-skills
-
-**Source:** github_trending  
-**URL:** https://github.com/elayadesign/ai-design-skills  
-**Published:** 2026-10-28 06:27  
-**Score:** 0
-
- (⭐ 1,395 stars today)
+**Total Articles:** 15
 
 ---
 
-## Nutlope/hallmark
+## vercel-labs/agent-desktop
 
 **Source:** github_trending  
-**URL:** https://github.com/Nutlope/hallmark  
-**Published:** 2026-10-28 06:27  
+**URL:** https://github.com/vercel-labs/agent-desktop  
+**Published:** 2026-11-02 17:14  
 **Score:** 0
 
-Anti-AI-slop design skill for Claude Code, Cursor, and Codex. (⭐ 2,830 stars today)
+Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions stay safe to retry, instead of guessing from pixels. (⭐ 2,243 stars today)
 
 ---
 
-## nightly-labs/openbot
+## thedotmack/claude-mem
 
 **Source:** github_trending  
-**URL:** https://github.com/nightly-labs/openbot  
-**Published:** 2026-10-28 06:27  
+**URL:** https://github.com/thedotmack/claude-mem  
+**Published:** 2026-11-02 17:14  
 **Score:** 0
 
-A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration. (⭐ 777 stars today)
+Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More (⭐ 1,799 stars today)
 
 ---
 
-## obra/superpowers
+## D4Vinci/Scrapling
 
 **Source:** github_trending  
-**URL:** https://github.com/obra/superpowers  
-**Published:** 2026-10-28 06:27  
+**URL:** https://github.com/D4Vinci/Scrapling  
+**Published:** 2026-11-02 17:14  
 **Score:** 0
 
-An agentic skills framework & software development methodology that works. (⭐ 617 stars today)
+🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev (⭐ 858 stars today)
 
 ---
 
-## pbakaus/impeccable
+## hyprwm/Hyprland
 
 **Source:** github_trending  
-**URL:** https://github.com/pbakaus/impeccable  
-**Published:** 2026-10-28 06:27  
+**URL:** https://github.com/hyprwm/Hyprland  
+**Published:** 2026-11-02 17:14  
 **Score:** 0
 
-The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships. (⭐ 1,449 stars today)
+Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks. (⭐ 508 stars today)
 
 ---
 
-## makecindy/cindy
+## Donchitos/Claude-Code-Game-Studios
 
 **Source:** github_trending  
-**URL:** https://github.com/makecindy/cindy  
-**Published:** 2026-10-28 06:27  
+**URL:** https://github.com/Donchitos/Claude-Code-Game-Studios  
+**Published:** 2026-11-02 17:14  
 **Score:** 0
 
-Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 (⭐ 1,465 stars today)
+Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy. (⭐ 1,380 stars today)
 
 ---
 
-## gitroomhq/postiz-app
+## FlashML-org/FreeToken
 
 **Source:** github_trending  
-**URL:** https://github.com/gitroomhq/postiz-app  
-**Published:** 2026-10-28 06:27  
+**URL:** https://github.com/FlashML-org/FreeToken  
+**Published:** 2026-11-02 17:14  
 **Score:** 0
 
-📨 The ultimate agentic social media scheduling tool 🤖 (⭐ 951 stars today)
+FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently. (⭐ 654 stars today)
 
 ---
 
-## affaan-m/ECC
+## pingdotgg/t3code
 
 **Source:** github_trending  
-**URL:** https://github.com/affaan-m/ECC  
-**Published:** 2026-10-28 06:27  
+**URL:** https://github.com/pingdotgg/t3code  
+**Published:** 2026-11-02 17:14  
 **Score:** 0
 
-The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. (⭐ 1,165 stars today)
+ (⭐ 3,216 stars today)
 
 ---
 
-## HKUDS/DeepTutor
+## shiyu-coder/Kronos
 
 **Source:** github_trending  
-**URL:** https://github.com/HKUDS/DeepTutor  
-**Published:** 2026-10-28 06:27  
+**URL:** https://github.com/shiyu-coder/Kronos  
+**Published:** 2026-11-02 17:14  
 **Score:** 0
 
-DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. (⭐ 1,598 stars today)
+Kronos: A Foundation Model for the Language of Financial Markets (⭐ 855 stars today)
 
 ---
 
-## JetBrains/thinkrail
+## kornia/kornia
 
 **Source:** github_trending  
-**URL:** https://github.com/JetBrains/thinkrail  
-**Published:** 2026-10-28 06:27  
+**URL:** https://github.com/kornia/kornia  
+**Published:** 2026-11-02 17:14  
 **Score:** 0
 
-Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need (⭐ 1,204 stars today)
+🐍 Geometric Computer Vision Library for Spatial AI (⭐ 412 stars today)
 
 ---
 
-## togg53192-cmd/jailbreaks
+## JustVugg/colibri
 
 **Source:** github_trending  
-**URL:** https://github.com/togg53192-cmd/jailbreaks  
-**Published:** 2026-10-28 06:27  
+**URL:** https://github.com/JustVugg/colibri  
+**Published:** 2026-11-02 17:14  
 **Score:** 0
 
-LIST OF ALL MY JAILBREAKS (⭐ 902 stars today)
+Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 (⭐ 655 stars today)
+
+---
+
+## mattpocock/skills
+
+**Source:** github_trending  
+**URL:** https://github.com/mattpocock/skills  
+**Published:** 2026-11-02 17:14  
+**Score:** 0
+
+Skills for Real Engineers. Straight from my .agents directory. (⭐ 970 stars today)
+
+---
+
+## max-sixty/worktrunk
+
+**Source:** github_trending  
+**URL:** https://github.com/max-sixty/worktrunk  
+**Published:** 2026-11-02 17:14  
+**Score:** 0
+
+Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows (⭐ 136 stars today)
+
+---
+
+## paperclipai/paperclip
+
+**Source:** github_trending  
+**URL:** https://github.com/paperclipai/paperclip  
+**Published:** 2026-11-02 17:14  
+**Score:** 0
+
+The open-source app everyone uses to manage agents at work (⭐ 451 stars today)
+
+---
+
+## karpathy/nanochat
+
+**Source:** github_trending  
+**URL:** https://github.com/karpathy/nanochat  
+**Published:** 2026-11-02 17:14  
+**Score:** 0
+
+The best ChatGPT that $100 can buy. (⭐ 325 stars today)
+
+---
+
+## p-e-w/heretic
+
+**Source:** github_trending  
+**URL:** https://github.com/p-e-w/heretic  
+**Published:** 2026-11-02 17:14  
+**Score:** 0
+
+Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more (⭐ 404 stars today)
 
 ---
 

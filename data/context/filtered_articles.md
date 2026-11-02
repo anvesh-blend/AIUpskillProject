@@ -1,195 +1,184 @@
 # Filtered AI/ML Articles
 
-**Total Input:** 41
-**Total Output:** 17
-**Filter Rate:** 41.5%
+**Total Input:** 43
+**Total Output:** 16
+**Filter Rate:** 37.2%
 
 ---
 
-## Artificial Analysis Intelligence Index v5.0
+## Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app
 
-**URL:** https://artificialanalysis.ai/methodology/intelligence-benchmarking
-**Relevance Score:** 10/10
-**Reasoning:** The article explicitly centers on an AI intelligence index and lists core AI/ML areas such as machine learning, LLMs, neural networks, computer vision, NLP, deep learning, transformers, and AI safety.
-**Key Topics:** Machine Learning, LLM, AI Research, Deep Learning, NLP, Computer Vision
-
-## Artificial Analysis Intelligence Index v5.0
-
----
-
-## Genie 4
-
-**URL:** https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/
-**Relevance Score:** 6/10
-**Reasoning:** The title 'Genie 4' is ambiguous, but the summary explicitly lists core AI/ML topics such as machine learning, LLMs, neural networks, computer vision, NLP, and AI research, indicating relevance to AI/ML.
-**Key Topics:** Machine Learning, LLMs, AI Research
-
-## Genie 4
-
----
-
-## Survival LLM: AI assistant and emergency library that runs on your own computer
-
-**URL:** https://www.brangus.io/survival-llm
-**Relevance Score:** 9/10
-**Reasoning:** The article explicitly discusses an AI assistant powered by an LLM running locally on a computer, which is directly relevant to AI/ML and NLP applications.
-**Key Topics:** LLM, AI Applications, NLP
-
-## Survival LLM: AI assistant and emergency library that runs on your own computer
-
----
-
-## Early progress on accelerating drug development with Claude
-
-**URL:** https://www.anthropic.com/research/early-progress-drug-development
-**Relevance Score:** 9/10
-**Reasoning:** The article is explicitly about using Claude, a large language model, to accelerate drug development, which is a clear AI application involving LLMs and machine learning in healthcare/pharma.
-**Key Topics:** LLMs, AI Applications, Machine Learning, Drug Discovery
-
-## Early progress on accelerating drug development with Claude
-
----
-
-## Artificial Analysis Intelligence Index v5
-
-**URL:** https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5
-**Relevance Score:** 10/10
-**Reasoning:** The article is explicitly about an AI intelligence index and lists core AI/ML domains such as machine learning, LLMs, neural networks, computer vision, NLP, deep learning, transformers, and AI safety.
-**Key Topics:** Machine Learning, LLMs, AI Research, Deep Learning, Transformers
-
-## Artificial Analysis Intelligence Index v5
-
----
-
-## Nvidia and Micron Make Up 34% of America's Earnings Boom
-
-**URL:** https://www.wsj.com/finance/stocks/the-earnings-boom-is-heavily-reliant-on-just-a-handful-of-stocks-21decb53
-**Relevance Score:** 6/10
-**Reasoning:** Nvidia is a core AI hardware provider and Micron supplies memory critical for AI workloads, so an earnings article about their contribution to profits is indirectly relevant to the AI/ML ecosystem, though it appears primarily financial rather than about AI technology itself.
-**Key Topics:** AI Hardware, AI Infrastructure
-
-## Nvidia and Micron Make Up 34% of America's Earnings Boom
-
----
-
-## elayadesign/ai-design-skills
-
-**URL:** https://github.com/elayadesign/ai-design-skills
+**URL:** https://momentic.ai/
 **Relevance Score:** 8/10
-**Reasoning:** The repository title explicitly references AI design skills, indicating content focused on applying or understanding AI in design workflows, which is relevant to AI applications.
+**Reasoning:** The article is about autonomous QA agents that plan and explore apps to find bugs, which is an AI application likely involving agentic/LLM-based automation rather than conventional software tooling alone.
+**Key Topics:** AI Applications, LLMs, Agents
+
+Hey HN, we’re Wei-Wei and Jeff. We’re building Momentic, QA agents that autonomously plan, explore, and bug-bash controls and user flows in your web, iOS, Android, and (soon) desktop apps to catch bug
+
+---
+
+## GPT-Rosalind-6 System Card Addendum
+
+**URL:** https://deploymentsafety.openai.com/gpt-rosalind-6
+**Relevance Score:** 10/10
+**Reasoning:** The title and summary directly reference a GPT system card addendum, which is explicitly about an AI/ML model and its documentation, likely covering model capabilities, risks, and safety considerations.
+**Key Topics:** LLM, GPT, AI Safety, AI Ethics
+
+## GPT-Rosalind-6 System Card Addendum
+
+---
+
+## LongCat-2.5: Native Multimodality for Agentic Tasks
+
+**URL:** https://longcat.ai/blog/longcat-2.5/
+**Relevance Score:** 10/10
+**Reasoning:** The title and summary indicate an AI model release focused on native multimodality and agentic tasks, which directly relates to LLMs, multimodal AI, and AI research.
+**Key Topics:** LLM, Multimodal AI, Agentic AI, AI Research
+
+## LongCat-2.5: Native Multimodality for Agentic Tasks
+
+---
+
+## Anthropic's internal AI use, at retail prices, now exceeds its employee pay
+
+**URL:** https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11
+**Relevance Score:** 9/10
+**Reasoning:** Directly concerns Anthropic, an AI company, and its internal use of AI models, which is highly relevant to LLM deployment and AI applications.
+**Key Topics:** LLMs, AI Applications, Anthropic
+
+## Anthropic's internal AI use, at retail prices, now exceeds its employee pay
+
+---
+
+## Last night an AI agent performed brain surgery on a mouse
+
+**URL:** https://twitter.com/OcanaSantero/status/2115442964574908902
+**Relevance Score:** 9/10
+**Reasoning:** The article explicitly describes an AI agent performing a surgical task, making it highly relevant as an AI application and likely tied to AI research in autonomous robotics.
 **Key Topics:** AI Applications, AI Research
 
- (⭐ 1,395 stars today)
+## Last night an AI agent performed brain surgery on a mouse
 
 ---
 
-## Nutlope/hallmark
+## Anthropic reports $17B in Q3 revenue, commitments of $895B in revised S-1
 
-**URL:** https://github.com/Nutlope/hallmark
-**Relevance Score:** 8/10
-**Reasoning:** The project explicitly targets AI coding assistants like Claude Code, Cursor, and Codex, focusing on mitigating low-quality AI-generated output ('AI slop'), which makes it directly relevant to AI applications and LLM usage.
-**Key Topics:** LLM, AI Applications, AI Safety
-
-Anti-AI-slop design skill for Claude Code, Cursor, and Codex. (⭐ 2,830 stars today)
-
----
-
-## nightly-labs/openbot
-
-**URL:** https://github.com/nightly-labs/openbot
+**URL:** https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html
 **Relevance Score:** 9/10
-**Reasoning:** The project is explicitly about persistent AI teammates and integrates major LLM systems like Codex, Claude, and Grok, making it a clear AI application centered on LLM-based agents.
-**Key Topics:** LLMs, AI Applications, GPT, NLP
+**Reasoning:** Anthropic is a major AI company focused on LLMs and AI safety, so financial reporting about the company is directly relevant to the AI/ML industry even though the article appears business-focused.
+**Key Topics:** LLM, AI Safety, AI Industry
 
-A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration. (⭐ 777 stars today)
-
----
-
-## obra/superpowers
-
-**URL:** https://github.com/obra/superpowers
-**Relevance Score:** 6/10
-**Reasoning:** The article discusses an agentic skills framework, which is related to AI agents and AI application development, though it is more about methodology/software engineering than core AI/ML research.
-**Key Topics:** AI Applications, LLMs
-
-An agentic skills framework & software development methodology that works. (⭐ 617 stars today)
+## Anthropic reports $17B in Q3 revenue, commitments of $895B in revised S-1
 
 ---
 
-## pbakaus/impeccable
+## vercel-labs/agent-desktop
 
-**URL:** https://github.com/pbakaus/impeccable
+**URL:** https://github.com/vercel-labs/agent-desktop
 **Relevance Score:** 8/10
-**Reasoning:** The project is explicitly about improving and auditing outputs from a coding agent, which strongly relates to LLM-based AI applications and AI safety/quality control.
-**Key Topics:** LLMs, AI Applications, AI Safety
+**Reasoning:** This is an AI application/infrastructure project for desktop agents: it enables reliable computer use by agents through accessibility trees rather than pixel-only interaction, which is directly relevant to LLM/agent systems and AI safety/reliability.
+**Key Topics:** AI Applications, LLMs, AI Safety
 
-The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships. (⭐ 1,449 stars today)
+Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions stay safe to retry, instead of guessing from pixels. (⭐ 2,243 stars today)
 
 ---
 
-## makecindy/cindy
+## thedotmack/claude-mem
 
-**URL:** https://github.com/makecindy/cindy
+**URL:** https://github.com/thedotmack/claude-mem
 **Relevance Score:** 9/10
-**Reasoning:** The article is explicitly about an open-source AI agent, which strongly relates to AI applications and likely involves LLM-based agent systems.
-**Key Topics:** AI Applications, LLMs, AI Agents
+**Reasoning:** Directly related to LLM-based AI applications: it adds persistent memory/context across sessions for AI agents and explicitly supports Claude, Codex, Gemini, Copilot, and similar models.
+**Key Topics:** LLMs, AI Applications, NLP, Agents
 
-Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 (⭐ 1,465 stars today)
-
----
-
-## gitroomhq/postiz-app
-
-**URL:** https://github.com/gitroomhq/postiz-app
-**Relevance Score:** 6/10
-**Reasoning:** The description explicitly says 'agentic' social media scheduling tool, suggesting AI-driven automation or LLM-based agents applied to social media workflows. While it appears to be an AI application, the summary does not provide enough detail to confirm core ML research or specific model techniques.
-**Key Topics:** AI Applications, LLMs
-
-📨 The ultimate agentic social media scheduling tool 🤖 (⭐ 951 stars today)
+Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More (⭐ 1,799 stars today)
 
 ---
 
-## affaan-m/ECC
+## Donchitos/Claude-Code-Game-Studios
 
-**URL:** https://github.com/affaan-m/ECC
+**URL:** https://github.com/Donchitos/Claude-Code-Game-Studios
 **Relevance Score:** 8/10
-**Reasoning:** The project is focused on optimizing agent performance for tools like Claude Code and Codex, which are AI coding assistants based on LLMs. This makes it directly relevant to AI applications and LLM-based agent systems.
-**Key Topics:** LLMs, AI Applications, AI Agents
+**Reasoning:** The project centers on using Claude Code, an LLM-based coding agent, coordinated through multiple AI agents and workflows for game development automation. This is a clear AI application involving LLMs and agentic systems.
+**Key Topics:** LLM, AI Applications, NLP, Agentic AI
 
-The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. (⭐ 1,165 stars today)
+Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy. (⭐ 1,380 stars today)
 
 ---
 
-## HKUDS/DeepTutor
+## FlashML-org/FreeToken
 
-**URL:** https://github.com/HKUDS/DeepTutor
+**URL:** https://github.com/FlashML-org/FreeToken
+**Relevance Score:** 9/10
+**Reasoning:** The article is about local serving of massive models, which is directly related to AI/ML infrastructure for LLMs and deep learning model deployment.
+**Key Topics:** Machine Learning, LLMs, AI Applications, Deep Learning
+
+FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently. (⭐ 654 stars today)
+
+---
+
+## shiyu-coder/Kronos
+
+**URL:** https://github.com/shiyu-coder/Kronos
+**Relevance Score:** 10/10
+**Reasoning:** The article is explicitly about a foundation model for financial markets, which is directly related to AI/ML research and applications, especially LLM-style modeling and deep learning.
+**Key Topics:** AI Research, Machine Learning, LLMs, AI Applications
+
+Kronos: A Foundation Model for the Language of Financial Markets (⭐ 855 stars today)
+
+---
+
+## kornia/kornia
+
+**URL:** https://github.com/kornia/kornia
+**Relevance Score:** 9/10
+**Reasoning:** Kornia is a geometric computer vision library focused on spatial AI, which is directly relevant to AI/ML, especially computer vision and deep learning workflows.
+**Key Topics:** Computer Vision, Deep Learning, AI Applications
+
+🐍 Geometric Computer Vision Library for Spatial AI (⭐ 412 stars today)
+
+---
+
+## JustVugg/colibri
+
+**URL:** https://github.com/JustVugg/colibri
+**Relevance Score:** 9/10
+**Reasoning:** The article is about running frontier Mixture-of-Experts models locally, which directly relates to machine learning infrastructure, LLMs, neural networks, and efficient deployment of large AI models.
+**Key Topics:** Machine Learning, LLMs, Neural Networks, AI Applications
+
+Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 (⭐ 655 stars today)
+
+---
+
+## paperclipai/paperclip
+
+**URL:** https://github.com/paperclipai/paperclip
 **Relevance Score:** 8/10
-**Reasoning:** DeepTutor is an AI application focused on personalized tutoring, which strongly suggests use of machine learning and likely LLM-based educational systems.
-**Key Topics:** AI Applications, Machine Learning, LLMs, AI Research
+**Reasoning:** The project is explicitly about managing agents at work, and 'agents' in this context strongly suggests AI/LLM-based applications. It appears to be an AI application/tooling project rather than core research.
+**Key Topics:** AI Applications, LLMs, Agents
 
-DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. (⭐ 1,598 stars today)
-
----
-
-## JetBrains/thinkrail
-
-**URL:** https://github.com/JetBrains/thinkrail
-**Relevance Score:** 7/10
-**Reasoning:** The article describes an IDE for 'vibe coding' with pi that customizes itself around how you work, which strongly suggests AI-assisted coding and likely LLM-based developer tooling.
-**Key Topics:** AI Applications, LLMs, Developer Tools
-
-Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need (⭐ 1,204 stars today)
+The open-source app everyone uses to manage agents at work (⭐ 451 stars today)
 
 ---
 
-## togg53192-cmd/jailbreaks
+## karpathy/nanochat
 
-**URL:** https://github.com/togg53192-cmd/jailbreaks
-**Relevance Score:** 8/10
-**Reasoning:** A repository of jailbreaks is directly related to LLM behavior, prompt injection, and AI safety/security concerns.
-**Key Topics:** LLMs, AI Safety
+**URL:** https://github.com/karpathy/nanochat
+**Relevance Score:** 9/10
+**Reasoning:** The title and summary explicitly reference ChatGPT, indicating a chatbot/LLM project directly related to NLP, transformers, and AI applications.
+**Key Topics:** LLM, GPT, NLP, AI Applications
 
-LIST OF ALL MY JAILBREAKS (⭐ 902 stars today)
+The best ChatGPT that $100 can buy. (⭐ 325 stars today)
+
+---
+
+## p-e-w/heretic
+
+**URL:** https://github.com/p-e-w/heretic
+**Relevance Score:** 10/10
+**Reasoning:** Directly concerns language model modification and behavior control, which is core AI/ML work in LLMs, NLP, and AI safety/alignment.
+**Key Topics:** LLMs, NLP, AI Safety, AI Research
+
+Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more (⭐ 404 stars today)
 
 ---
 
