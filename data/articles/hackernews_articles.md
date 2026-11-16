@@ -1,315 +1,325 @@
 # News Articles
 
-**Generated:** 2026-11-02 17:14:55
+**Generated:** 2026-11-16 04:58:21
 
-**Total Articles:** 28
-
----
-
-## Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app
-
-**Source:** hackernews  
-**URL:** https://momentic.ai/  
-**Published:** 2026-11-02 17:05  
-**Score:** 14
-
-Hey HN, we’re Wei-Wei and Jeff. We’re building Momentic, QA agents that autonomously plan, explore, and bug-bash controls and user flows in your web, iOS, Android, and (soon) desktop apps to catch bug
+**Total Articles:** 29
 
 ---
 
-## Show HN: Warsaw in voxels – an interactive 3D map of the city centre
+## Universal XSS in uBlock Origin from website-driven element picker
 
 **Source:** hackernews  
-**URL:** https://p.migdal.pl/warsaw-vibe-voxel/  
-**Published:** 2026-11-02 16:25  
-**Score:** 29
-
-Explore central Warsaw in voxels - slightly inspired by Minecraft, and MagicaVoxel. 
-You can change the date, time of day and weather, explore the city, or click on a pedestrian to control them (here 
-
----
-
-## Moving our warehouse off DuckDB
-
-**Source:** hackernews  
-**URL:** https://posthog.com/blog/moving-off-duckdb  
-**Published:** 2026-11-02 16:02  
-**Score:** 65
+**URL:** https://iter.ca/post/ubo-uxss/  
+**Published:** 2026-11-16 02:04  
+**Score:** 169
 
 
 
 ---
 
-## If you love a website, back it up
+## Qwen4-Max
 
 **Source:** hackernews  
-**URL:** https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/  
-**Published:** 2026-11-02 13:25  
-**Score:** 112
+**URL:** https://qwen.ai/blog?id=qwen4-max  
+**Published:** 2026-11-16 02:14  
+**Score:** 232
 
 
 
 ---
 
-## Bitmovin (YC S15) Is Hiring Technical Graduates in Denver (Engineering/CS Focus)
+## Old Bitly links are being hijacked
 
 **Source:** hackernews  
-**URL:** https://bitmovin.com/careers/8660599002/  
-**Published:** 2026-11-02 17:00  
-**Score:** 1
+**URL:** https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/  
+**Published:** 2026-11-15 22:11  
+**Score:** 220
 
 
 
 ---
 
-## GPT-Rosalind-6 System Card Addendum
+## What's Next for Nvidia?
 
 **Source:** hackernews  
-**URL:** https://deploymentsafety.openai.com/gpt-rosalind-6  
-**Published:** 2026-11-02 14:44  
-**Score:** 28
+**URL:** https://steveblank.com/2026/11/15/whats-next-for-nvidia/  
+**Published:** 2026-11-15 23:55  
+**Score:** 145
 
 
 
 ---
 
-## LongCat-2.5: Native Multimodality for Agentic Tasks
+## Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack
 
 **Source:** hackernews  
-**URL:** https://longcat.ai/blog/longcat-2.5/  
-**Published:** 2026-11-02 15:00  
-**Score:** 40
+**URL:** https://forum.torproject.org/t/security-release-0-4-9-17/22454  
+**Published:** 2026-11-16 00:21  
+**Score:** 84
 
 
 
 ---
 
-## We halved DNS build delay and cut memory use by 85%
+## Preserving 30 years of Salon journalism
 
 **Source:** hackernews  
-**URL:** https://blog.cloudflare.com/dns-targeted-zone-builds/  
-**Published:** 2026-11-02 14:47  
-**Score:** 27
+**URL:** https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/  
+**Published:** 2026-11-15 23:00  
+**Score:** 113
 
 
 
 ---
 
-## Postgres 19 is late because so many more bugs are being found now
+## The Miracle Cure: In 1977, a drug rejected by doctors became a sensation
 
 **Source:** hackernews  
-**URL:** http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html  
-**Published:** 2026-10-31 01:38  
-**Score:** 753
+**URL:** https://slate.com/technology/2026/11/doctor-medicine-cancer-cure-pill-history.html  
+**Published:** 2026-11-13 06:58  
+**Score:** 18
 
 
 
 ---
 
-## My Favourite Laptop
+## Protomaps: Self-hosting map tiles has gotten cheap and easy
 
 **Source:** hackernews  
-**URL:** https://blog.jsbarretto.com/post/laptop  
-**Published:** 2026-11-02 16:59  
-**Score:** 6
+**URL:** https://bruceroettgers.eu/blog/protomaps/  
+**Published:** 2026-11-15 19:26  
+**Score:** 232
 
 
 
 ---
 
-## Show HN: I've updated my Linux System Call website and API
+## A short explainer on how El Niño works [video]
 
 **Source:** hackernews  
-**URL:** https://syscall.sh/  
-**Published:** 2026-11-02 09:29  
-**Score:** 160
+**URL:** https://www.youtube.com/watch?v=7_JF3etiAv8  
+**Published:** 2026-11-15 18:23  
+**Score:** 204
 
-I first released those in back in 2020 and now I finally added more architectures, Kernel selector, syscall descriptions and a few other niceties. It should work a bit better on mobile devices too but
+
 
 ---
 
-## Show HN: VHS Camera – Run your camera or videos through a simulated VHS signal
+## Do we still have to denormalize? Have your schema and search it too
 
 **Source:** hackernews  
-**URL:** https://fotojockovic.com/vhs  
-**Published:** 2026-11-02 16:08  
+**URL:** https://www.paradedb.com/blog/joins  
+**Published:** 2026-11-13 15:31  
+**Score:** 41
+
+
+
+---
+
+## Handwriting, as a Font
+
+**Source:** hackernews  
+**URL:** https://ductus.sorenblank.com  
+**Published:** 2026-11-15 19:42  
+**Score:** 182
+
+
+
+---
+
+## Coles hit by a cybersecurity incident
+
+**Source:** hackernews  
+**URL:** https://www.colesgroup.com.au/updates/  
+**Published:** 2026-11-16 01:14  
+**Score:** 77
+
+
+
+---
+
+## The MacBook Pro's OLED PWM problem
+
+**Source:** hackernews  
+**URL:** https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/  
+**Published:** 2026-11-15 13:15  
+**Score:** 440
+
+
+
+---
+
+## Crows make decisions faster than we can
+
+**Source:** hackernews  
+**URL:** https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html  
+**Published:** 2026-11-15 17:53  
+**Score:** 196
+
+
+
+---
+
+## WebGL Flight Simulator with seed generated terrain
+
+**Source:** hackernews  
+**URL:** https://baron.by.dai.studio/  
+**Published:** 2026-11-15 20:20  
+**Score:** 107
+
+
+
+---
+
+## Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]
+
+**Source:** hackernews  
+**URL:** https://www.youtube.com/watch?v=WPj3aQ-xxpI  
+**Published:** 2026-11-12 05:29  
+**Score:** 379
+
+
+
+---
+
+## Mini.nvim Is Now on Tangled
+
+**Source:** hackernews  
+**URL:** https://tangled.org/nvim-mini.org/mini.nvim  
+**Published:** 2026-11-15 23:55  
+**Score:** 47
+
+
+
+---
+
+## Things That Turbo Pascal Is Smaller Than (2011)
+
+**Source:** hackernews  
+**URL:** https://prog21.dadgum.com/116.html  
+**Published:** 2026-11-15 13:44  
+**Score:** 216
+
+
+
+---
+
+## Artificial Intelligence for the Z80
+
+**Source:** hackernews  
+**URL:** https://www.dfsantos.com/en/libro-ia-z80  
+**Published:** 2026-11-13 15:50  
+**Score:** 11
+
+
+
+---
+
+## What happens if you write a TCP stack in Python? (2014)
+
+**Source:** hackernews  
+**URL:** https://jvns.ca/blog/2014/08/12/what-happens-if-you-write-a-tcp-stack-in-python/  
+**Published:** 2026-11-12 15:47  
 **Score:** 10
 
 
 
 ---
 
-## Supermarket freezers across Europe hit by second suspected cyber-attack
+## 1900s How do you Wash a Kimono?
 
 **Source:** hackernews  
-**URL:** https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack  
-**Published:** 2026-11-02 11:50  
-**Score:** 205
-
-<a href="https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;cq1kd1nee80eo" rel="nofollow">https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;cq1kd1nee80eo</a><p><a href="https:&#x2F;&#
-
----
-
-## Bones may release proteins that slow aging and extend life span
-
-**Source:** hackernews  
-**URL:** https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span  
-**Published:** 2026-11-02 01:31  
-**Score:** 257
+**URL:** https://www.oldphotosjapan.com/photos/877/laundry-washing-clothes-meiji-19th-century-vintage-albumen-prints  
+**Published:** 2026-11-13 22:03  
+**Score:** 40
 
 
 
 ---
 
-## Anthropic's internal AI use, at retail prices, now exceeds its employee pay
+## Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests
 
 **Source:** hackernews  
-**URL:** https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11  
-**Published:** 2026-11-02 16:40  
-**Score:** 12
+**URL:** https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html  
+**Published:** 2026-11-15 18:36  
+**Score:** 455
 
 
 
 ---
 
-## WTF Ubuntu?
+## Linux was created as a rejection of robust software architecture and tools
 
 **Source:** hackernews  
-**URL:** https://chalmovsky.com/posts/wtf-ubuntu  
-**Published:** 2026-11-02 14:52  
-**Score:** 671
+**URL:** https://twitter.com/GrapheneOS/status/2122079826257588569  
+**Published:** 2026-11-16 03:58  
+**Score:** 16
 
 
 
 ---
 
-## C64 Basic Dungeon Crawler: Stairs, Levels and Levelling Up (Part 11)
+## Understanding Positional Embeddings in Modern LLMs
 
 **Source:** hackernews  
-**URL:** https://retrogamecoders.com/c64-basic-dungeon-part11/  
-**Published:** 2026-11-02 14:56  
-**Score:** 7
+**URL:** https://magazine.sebastianraschka.com/p/understanding-positional-embeddings  
+**Published:** 2026-11-15 12:14  
+**Score:** 221
 
 
 
 ---
 
-## F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix
+## Show HN: The Last Complication, a Zachtronics-style watchmaking puzzle game
 
 **Source:** hackernews  
-**URL:** https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/  
-**Published:** 2026-11-02 01:59  
-**Score:** 193
+**URL:** https://lastcomplication.com/  
+**Published:** 2026-11-15 22:48  
+**Score:** 64
 
 
 
 ---
 
-## Why are Soviet math textbooks so hardcore in comparison to US textbooks? (2017)
+## A quest to create the perfect whiskey glass
 
 **Source:** hackernews  
-**URL:** https://www.quora.com/Why-are-Soviet-mathematics-physics-textbooks-so-insanely-hardcore-in-comparison-to-US-textbooks/answer/Scott-Miller-307?share=1  
-**Published:** 2026-11-02 15:01  
-**Score:** 103
+**URL:** https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html  
+**Published:** 2026-11-13 17:37  
+**Score:** 58
 
 
 
 ---
 
-## Mystery of 60-Second Fluctuations in Power Grids Solved
+## Eclipse Mosquitto – An open source MQTT broker
 
 **Source:** hackernews  
-**URL:** https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved  
-**Published:** 2026-10-31 11:53  
-**Score:** 233
+**URL:** https://github.com/eclipse-mosquitto/mosquitto  
+**Published:** 2026-11-15 18:36  
+**Score:** 79
 
 
 
 ---
 
-## Show HN: HackerBooks – HackerTube, but for books mentioned on HN
+## Clice v1.0 Released: Welcome to Modern C++
 
 **Source:** hackernews  
-**URL:** https://hackerbooks.org  
-**Published:** 2026-11-01 15:58  
-**Score:** 1761
-
-Saw Karpathy&#x27;s HackerTube and wanted the same thing for books. So I had Claude build one (Opus 5.5).<p>It&#x27;s ~16.5k books that at least two different HN commenters brought up, from 2007 till 
-
----
-
-## Last night an AI agent performed brain surgery on a mouse
-
-**Source:** hackernews  
-**URL:** https://twitter.com/OcanaSantero/status/2115442964574908902  
-**Published:** 2026-11-02 12:50  
-**Score:** 75
+**URL:** https://ykiko.me/en/articles/2105384023094834022/  
+**Published:** 2026-11-15 17:22  
+**Score:** 119
 
 
 
 ---
 
-## Trigger.dev customer environment variables exposed
+## Skydio's asymmetrical F10 Lightrunner solves a problem with fixed-wing drones
 
 **Source:** hackernews  
-**URL:** https://trigger.dev/blog/security-incident-nov-2026  
-**Published:** 2026-11-02 01:09  
-**Score:** 154
-
-
-
----
-
-## Napping characteristics and incident dementia
-
-**Source:** hackernews  
-**URL:** https://academic.oup.com/biomedgerontology/article/81/10/glag208/8769491?login=false  
-**Published:** 2026-11-02 14:53  
-**Score:** 22
-
-
-
----
-
-## Wir müssen wissen – wir werden wissen
-
-**Source:** hackernews  
-**URL:** https://remy.wang/blog/hilbert.html  
-**Published:** 2026-11-02 08:07  
-**Score:** 37
-
-
-
----
-
-## HackerTube: YouTube built from videos recommended by HN
-
-**Source:** hackernews  
-**URL:** https://karpathy.bearblog.dev/hacker-tube/  
-**Published:** 2026-10-31 19:56  
-**Score:** 2770
-
-YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007.<p><a href="https:&#x2F;&#x2F;hackertube.org&#x2F;" rel="nofollow">https:&#x2F;&#x2F;hackertube.org&#x2F;</a>
-
----
-
-## Anthropic reports $17B in Q3 revenue, commitments of $895B in revised S-1
-
-**Source:** hackernews  
-**URL:** https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html  
-**Published:** 2026-11-02 14:38  
-**Score:** 171
-
-
-
----
-
-## Nibnib: Image compression with extreme decompression speed
-
-**Source:** hackernews  
-**URL:** https://github.com/raphlinus/nibnib  
-**Published:** 2026-10-30 04:17  
-**Score:** 181
+**URL:** https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone  
+**Published:** 2026-11-16 00:03  
+**Score:** 13
 
 
 
